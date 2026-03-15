@@ -1,0 +1,99 @@
+text,true_label,gemini_pred,llama_pred,mistral_pred
+Muslingalk idayilum Xristhanikalk idayilum Hindukalk idayilum  Ivanu ore oru pereyyllu.....raja,Positive,Positive,Mixed_feelings,Mixed_feelings
+സത്യം പറയാലോ ഈ അടുത്തൊന്നും ഒരുത്തനും ഇമ്മാതിരി teaser ഇറക്കി രോമാഞ്ചം കൊള്ളിച്ചിട്ടില്ല....,Positive,Positive,Mixed_feelings,Negative
+ഈ ഓണം ഇട്ടി ഇച്ചായൻ അങ്ങ് എടുത്തു എന്ന് പറഞ്ഞേക്ക്,Positive,Positive,Mixed_feelings,Negative
+കോഴി എന്ന് കേൾക്കുമ്പോൾ ആദ്യം മനസ്സിൽ ഓടി വരുന്ന ഒരു കൂട്ടുകാരൻ എനിക്കുമുണ്ട്  ഈ സിനിമ നല്ലൊരു വിജയമാവട്ടെ  മഞ്ജു വാര്യർ,Positive,Positive,Positive,Positive
+ഇതും നല്ല രീതിക്ക് തന്നെ പൊട്ടും നോക്കിക്കോ,Negative,Negative,Negative,Mixed_feelings
+ഇജ്ജാതി ഗതികേട് 2 ദിവസം മുന്പേ പ്രീമിയർ ഇറക്കുന്നു,Negative,Negative,Positive,Mixed_feelings
+Shreya ghoshal ji kk meaning ariyathond kondayirikkum. Allengi padilla sure,Negative,"ERROR: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
+Please retry in 53.215733123s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerMinutePerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 53
+}
+]",Mixed_feelings,Positive
+Guppy le chethan aayirunilel veedum poli aayene.evanum sooperaaaaa,Mixed_feelings,"ERROR: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
+Please retry in 51.980888834s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerMinutePerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 51
+}
+]",Positive,Positive
+Trailer kandit poliyan ann chnce... Bt nalla visuals pradheekshikunnu,Mixed_feelings,"ERROR: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
+Please retry in 50.760639406s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerMinutePerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 50
+}
+]",Positive,Mixed_feelings
+padam suparaan pakshey baakkiyum koodi venam,Mixed_feelings,"ERROR: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
+Please retry in 49.498611068s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerMinutePerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 49
+}
+]",Negative,Mixed_feelings

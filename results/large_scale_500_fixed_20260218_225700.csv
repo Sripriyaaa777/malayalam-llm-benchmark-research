@@ -1,0 +1,219 @@
+sample_id,text,true_label,llama_pred,mistral_pred,llama_correct,mistral_correct
+1,lalettaaaaaa....luv you.....e movie arengaan wait cheyuneveer endoo,Positive,Positive,Positive,True,True
+2,ചാക്കോച്ചന്റെ അഞ്ചാംപാതിരായ്ക്ക് വിജയാശംസകളോടെ.... മമ്മൂക്കഫാൻസ്‌ കണ്ണൂർ,Positive,Positive,Positive,True,True
+3,മാമാങ്കത്തിന് family കുറച്ചു  കുറയാൻ ഉള്ള എല്ലാ സാധ്യതകളും കാണുന്നു . My സാന്റാ  ഒരെ പൊളി .ഒരു beautiful fantasy movie പ്രതീക്ഷിക്കാം. കുട്ടികൾ തന്നെ കേറി വൻ വിജയം ആക്കും . Waitting for തിയേറ്റർ എക്സ്പീരിയൻസ്,Positive,Positive,Positive,True,True
+4,2019 ലെ ഒരു വലിയ hit  കാസ്റ്റിംഗ്,Positive,Positive,Positive,True,True
+5,Rajuvetta katta waiting for Lucifer,Positive,Positive,Positive,True,True
+6,Polichu...  namude ലാലേട്ടൻ.. ...  rajuchettan,Positive,Positive,Positive,True,True
+7,Oru songil tane itrayum comedy apo onam ittymani kond poyi enu paranjekk,Positive,Negative,Negative,False,False
+8,Trailer ndoke erakiyalum lalettante record thakarkan lalettanu matre pattu,Positive,Positive,Negative,True,False
+9,Ittichan da  mwne sanbavm pwlikm !onam winner,Positive,Positive,Positive,True,True
+10,Padachooone....BGM..kett vaaa polich poyath njn mathram aaahno.?,Positive,Negative,Negative,False,False
+11,Teateril നിന്ന് ഏറ്റവും കൂടുതൽ കയ്യടി വാങ്ങിയ ഒരു ഭാഗം ഈ സോങ് ആണ്...... enthe crct alle?,Positive,Positive,Positive,True,True
+12,trailer kaanumbo oru romaanjam.. royal mech.. kidu.. :-),Positive,Positive,Positive,True,True
+13,പ്രതീക്ഷിച്ചതുപോലെ നല്ലൊരു കിടിലൻ ട്രൈലെർ  fully filled with fantasy  എങ്ങും ഒരു ഹോളിവുഡ് ടച്ച്‌  കൂടെ english സോങ് കൂടി ആയപ്പോ കലക്കി.. അപ്പൊ എന്തായാലും ക്രിസ്മസ്നു ദീലീപേട്ടൻ ഒരു വരവ് വരുകയാ 🤘 എല്ലാവർക്കും എന്റെ ഹാപ്പി ക്രിസ്മസ്,Positive,Positive,Positive,True,True
+14,Song പൊളിച്ചു last ഇക്ക വരുമെന്ന് വിചാരിച്ചു. ഇക്ക ലേറ്റാ വന്താലും latest aa varuve,Positive,Negative,Negative,False,False
+15,2k19 മമ്മുക്കയുടെ വർഷം ആയത് പോലെ 2k20 മമ്മുക്കയുടെ ആയി മാറട്ടെ,Positive,Positive,Positive,True,True
+16,Annum Innum Ikkayude Bthday nnu vachal nammal malayalikal ellarum oru atbudama...   Vayasulpade tettate malayalikal parayan  Matethu nadanundu inganoru pretyekata  #Ikka,Positive,Positive,Positive,True,True
+17,Ittimani onam kondupokum ennu urappullavarke like adikkanulla oru 50 acre ivide vachitunde....edutho...,Positive,Negative,Negative,False,False
+18,"ദിവസവും ഈ പാട്ട് രണ്ട് നേരം എങ്കിലും കേട്ടില്ലങ്കിൽ എന്തോ പോലെ ,പ്രഹസനമല്ല സത്യായിട്ടും.",Positive,Positive,Positive,True,True
+19,"ഈ സിനിമയെ degrade ചെയ്യാൻ നോക്കുന്നവരൊക്കെ പോയി വേറെ പണി നോക്കടെ... ഞാൻ ഒരു #ലാലേട്ടൻ fan ആണ്, എന്നാലും പറയുവാ ഇതു നല്ലൊരു സിനിമയാണ്... #മമ്മൂക്ക",Positive,Positive,Positive,True,True
+20,Kurach massum aayittanallo jayetta ipravishathe varav,Positive,Positive,Positive,True,True
+21,Uff romanjam kond irinaduth ninn njan enit ninn poyi,Positive,Negative,Negative,False,False
+22,"എന്താടാ നിങ്ങൾ പറഞ്ഞെ.. പഴയ ഡിറക്ടർസ്, പണ്ടത്തെ ആഹ് ഒരു ഗുമൊന്നും ഇപ്പോഴില്ല,  എന്ന് പറഞ്ഞ ചീള് ന്യൂ ജനറേഷനോളികൾ എവിടാടാ??  വാടാ..  വാടാ !! ജോഷി സർ ബാക്ക് ഓൺ താ ഫ്ലോർ !!!!",Positive,Positive,Negative,True,False
+23,എല്ലാവര്‍ക്കും ഹൃദയം നിറഞ്ഞ ക്രിസ്മസ് ആശംസകള്‍,Positive,Positive,Positive,True,True
+24,Nalla rasam ubdae,Positive,Positive,Positive,True,True
+25,ഫഹദ്   polich  movieyil psycho,Positive,Positive,Positive,True,True
+26,Lalettan polippichengil.  Adik oru big like,Positive,Positive,Positive,True,True
+27,Addddiiiiipolliiiii.....marana masss.....oru sakshem illa....lalettande kidu look.....🤩🤩,Positive,Positive,Positive,True,True
+28,അതെ നമ്മുടെ ഏട്ടൻ .I LOVE YOU ലാലേട്ടാ ...,Positive,Positive,Positive,True,True
+29,Idivett trailer . Mammukka ennum njangalde swantham,Positive,Positive,Positive,True,True
+30,പയ്യന്നൂർ ന്റെ സ്വന്തം അനശ്വര കുട്ടി യും,Positive,Positive,Positive,True,True
+31,Trailer le mikka bagangalum theater il miss aayi ennu enikku maathram aano thoniyathu ?? Pala bagangalum cut cheytha pole ?  Enthokke aanelum padam kidu aanu tta..!  Kudos to crew  From #arts_clg,Positive,Positive,Mixed_feelings,True,False
+32,Trailer il എടുത്തു പറയേണ്ടത് ഇതാണ് “ ഗോപി സുന്ദർ പൊളിച്ചു അടിക്കിയിട്ടുണ്ട് ”. വേറെ ലെവൽ BGM [background music],Positive,Positive,Positive,True,True
+33,SHANE NTEഫ്രണ്ട് മച്ചാൻ വേറെ ലെവൽ,Positive,Positive,Positive,True,True
+34,ഫഹദ് ഇക്ക നിങ്ങ പൊളിയാണ്. കഷണ്ടി കാരുടെ അഭിമാനവും ആത്മവിശ്വാസവുമാണ് നിങ്ങൾ  ഫഹദിക്ക ഇഷ്തം,Positive,Positive,Positive,True,True
+35,Police pwoli anallo...lal inte thirichu varavu...,Positive,Negative,Negative,False,False
+36,Raja 100 core kadakum ennu urappulavarke like adiche polikanulla button... Ikka,Positive,Negative,Positive,False,True
+37,മലയാളത്തിന്റെ മാമാങ്ക മഹോത്സവത്തിന് ആയിരങ്ങളുടെ കാത്തിരിപ്പ്. ഫാൻ ഫൈറ്റ് മാറ്റി വെച്ച് ഒന്നിച്ച് പ്രോത്സാഹിപ്പിക്കൂ അതുല്ല്യ മലയാള കലാ കാരന്മാരെ,Positive,Positive,Positive,True,True
+38,Padam clss ann വേറെ level ayirikum,Positive,Positive,Positive,True,True
+39,വിരിഞ്ഞ നെഞ്ച് ഉള്ളവർ ഉണ്ടായിട്ട് എന്ത് കാര്യം.. എന്നുമീ ചരിഞ്ഞ തോളിൽ അല്ലേ മലയാള സിനിമഏട്ടൻ,Positive,Positive,Negative,True,False
+40,എത്ര കേട്ടാലും മതി വരാത്ത സോങ്,Positive,Negative,Positive,False,True
+41,ആരും സഞ്ചരിക്കാത്ത വഴികളിലൂടെ നിവിൻ സഞ്ചരിച്ചു തുടങ്ങി,Positive,Positive,Mixed_feelings,True,False
+42,kanunnathin  anusarich veendum veendum kanan thonnunu,Positive,Negative,Negative,False,False
+43,Super  കേട്ടാലും കേട്ടാലും മടുക്കാത്ത song,Positive,Positive,Positive,True,True
+44,Onnum parayanilla... ഒരു pidiyum kittunnilla... waiting for.... pathinettam പടി..... Rockkk Mammookka .,Positive,Positive,Negative,True,False
+45,മലയാള സിനിമക്ക് എന്നും ശക്തമായ സ്ത്രീകഥാപാത്രങ്ങൾ തന്ന മഞ്‍ജു ചേച്ചി മറ്റൊരു ശക്തമായ കഥാപാത്രവുമായി വീണ്ടും,Positive,Positive,Positive,True,True
+46,ഒരു ശക്തമായ കപാത്രം  ജോജു കൊട് കൈയ്യടി......,Positive,Positive,Positive,True,True
+47,Kure  നാളുകളായി ഒരു സാധാരണ പടം ആഗ്രഹിക്കുന്നു. അത് ഇതിലുണ്ടാവണമെന്ന് പ്രതീക്ഷിക്കുന്നു,Positive,Positive,Mixed_feelings,True,False
+48,"ഈ പാട്ടിനു എങ്ങനെ ഡിസ്‌ലൈക്ക് അടിക്കാൻ തോന്നി?? ആ സ്റ്റേജിൽ ഉള്ളവരിൽ ഏറ്റവം നന്നായി കളിച്ചതു ലാലേട്ടൻ ആണെന്ന് ആർക്കൊകെ തോന്നി, സ്റ്റീഫൻ നെടുമ്പള്ളി തന്നെ ആണോ ith? ഓണം ഇട്ടിച്ചായൻ കൊണ്ടുപോകും, ഉറപ്പ്.",Positive,Positive,Mixed_feelings,True,False
+49,ഇപ്പോഴും വന്നു കണ്ട് രോമാഞ്ചിഫിക്കേഷൻ ആവുന്നവർ ഇവിടെ ലൈക്‌ അടി...,Positive,Positive,Positive,True,True
+50,പടം ഇറങ്ങിയിട്ട് 2 മാസം ആയിട്ടും ഇപ്പോഴും കേൾക്കുന്നു,Positive,Positive,Positive,True,True
+51,Tgf nu shesham Nalla moodulla mattoru malayala film aavum.,Positive,Positive,Positive,True,True
+52,മലയാളികൾ wait ചെയ്ത song ഒന്നും പറയാൻ ഇല്ല മമ്മുക്ക കലക്കി,Positive,Negative,Positive,False,True
+53,Trailer കാണുന്നേ മുൻപേ like അടിച്ചവർ ഇവടെ കമോണ്,Positive,Negative,Negative,False,False
+54,Entae jeevathil ithrayum pravishyam trailer kanda verae oru cinemayum illa,Positive,Negative,Negative,False,False
+55,"അങ്ങനെ മലയാള സിനിമയിലേക്ക്  ലക്ഷണമൊത്ത മറ്റൊരു ക്രൈം ത്രില്ലെർ സിനിമ കൂടെ, ഇതിലെ ഓരോ ഷോട്ടും നിഗുഢത നിറഞ്ഞതും പേടിപെടുത്തുന്നതുമാണ്",Positive,Positive,Positive,True,True
+56,Mohanlal fans like here .... Ettan maaasss aanu,Positive,Positive,Positive,True,True
+57,Enta ikka polichu   Kidu item  Ethu polikkum,Positive,Positive,Negative,True,False
+58,Ichaayn masss alaaa marana masss anuuuu polwiii,Positive,Positive,Positive,True,True
+59,നല്ല കട്ട ലോക്കൽ മൂവി  ആയിരിക്കും waiting,Positive,Positive,Positive,True,True
+60,Ella recordum theerkaan kazhiyatte ennaasamsikunnu...Enkil maathre e record marakaar release aavumbo thiruthaan saadhikku,Positive,Negative,Negative,False,False
+61,Bgm + ettan + dialogues + fight  = romanijification,Positive,Positive,Positive,True,True
+62,Mmale Thrissurile jedikale film..ith pwolikum tta,Positive,Negative,Negative,False,False
+63,E padathinte making ushar aanenu thonunu..  Trailer kanditt padam kandathokem thallipoli aayirnu.  But trailer pwolichu,Positive,Mixed_feelings,Mixed_feelings,False,False
+64,Poli trailer movie kanan kothi akunnu,Positive,Negative,Positive,False,True
+65,ലാലേട്ടാ പൊളിച്ചു ഏറെ നാൾ ആയിട് കാണാൻ കാത്തിരുന്ന ആ പഴയ ലാലേട്ടൻ ഈ ഓണം ഇട്ടിച്ചയാനോട് ഒപ്പം🤗🤗,Positive,Positive,Positive,True,True
+66,Nice...ikka mass   . All th bst #lalettan fan,Positive,Positive,Positive,True,True
+67,Lalettan kidu maazz .... .... Super.......,Positive,Positive,Positive,True,True
+68,MAMMOOKA FANSINTE ELLA VIDHA ASHAMSAKALUM NERUNNU...,Positive,Positive,Positive,True,True
+69,romancham ennokke paranja koranji pogum ....athukkum mele,Positive,Negative,Positive,False,True
+70,Ettan pwoli.. Engane abinayikunnu ethra cute ayyitte,Positive,Positive,Positive,True,True
+71,ചിന്ത പാളുന്ന കൊല്ലകൊല്ലി ഐറ്റം   മാമാങ്കത്തിൽ ക്ലാസ്സ്‌ ആയിരുന്ന ഇക്ക  ഷൈലോക്കിൽ ട്രിപ്പിൾ മാസിൽ,Positive,Positive,Mixed_feelings,True,False
+72,Mammukka marana mass  Ikka fans like  Katta wi8 for mammangam,Positive,Positive,Positive,True,True
+73,ചാക്കോച്ചന്റെ ഒരു ഉഗ്രൻ തിരിച്ചുവരവാകട്ടെ ഈ ചിത്രം...കിടു trailer,Positive,Positive,Positive,True,True
+74,ഇൗ പിള്ളേരൊക്കെ പറയുവല്ലോ എന്തുവാ കൊലമാസ്സ്‌ അത് തന്നെ,Positive,Negative,Negative,False,False
+75,Nalla kidukkachii trailer... Ikka love uuu...,Positive,Positive,Positive,True,True
+76,മമ്മൂക്ക ഒരേ പൊളി... എജ്ജാതി എനർജി സ്ക്രീൻ പ്രെസൻസ്,Positive,Positive,Positive,True,True
+77,ഭവനെ... കൊല ഗാണ്ടിലെ ഇറുക്ക്... ഹഹ...കൊല്ലാമ വിടമാട്ടേൻ...   ന്റമ്മോ ജ്ജാതി ഡയലോഗ്,Positive,Positive,Negative,True,False
+78,മാർഗം  കളി   സൂപ്പർ,Positive,Positive,Positive,True,True
+79,ഇത് എപ്പ പൊളിച്ചൂന്ന് ചോദിച്ചാ പോരെkatta waiting...................,Positive,Negative,Negative,False,False
+80,inni Kanji chodichu Arum varandaa....Assalu Biriyani thanne Thannittund.         Lucifer,Positive,Positive,Negative,True,False
+81,Adaar item orungi....kaathirunnolu ini ball njngalde kayil aan....!!!,Positive,Negative,Positive,False,True
+82,Vere level ikka polikum. RAJA vere level aakum. Ikkaaaa,Positive,Positive,Positive,True,True
+83,Enne pole katta waiting ayi nikunavar adi oru,Positive,Negative,Negative,False,False
+84,ആദ്യത്തെ സംസാരം കേട്ടപ്പോ ഓർത്ത് കരിക്കിലെ പിള്ളേരും ഉണ്ടെന്ന്  സൗബിനിക്ക വാട്ട്‌ a ട്രാൻസ്ഫോർമേഷൻ മാൻ   കട്ട വെയ്റ്റിംഗ്   Ps: ഭാവന സ്റ്റുഡിയോസ്  പോത്തേട്ടൻ അറ്റെൻഷൻ ടു ഡീറ്റെയിൽസ് കിടുക്കാച്ചി.,Positive,Positive,Mixed_feelings,True,False
+85,Sound pwoliii... ട്രൈലെർ ഒരു രക്ഷയുമില്ല.. 🤩🤩🤩🤩🤩🤩🤩,Positive,Negative,Positive,False,True
+86,ഭാവം കൊണ്ടും വേഷം കൊണ്ടും ഒരുപാട് ചിരിപ്പിച്ചിരുന്ന ആ പഴയ സലീം കുമാറിനെ വീണ്ടും കാണാൻ സാധിക്കുമെന്ന് പ്രതീക്ഷയുണ്ട്,Positive,Positive,Positive,True,True
+87,Lalettan ki jaiiiii..king of box office,Positive,Positive,Positive,True,True
+88,മമ്മൂക്ക ഡാൻസ് കളിക്കുന്നത് എന്തൊരു രസത്തോടെയാണ് തിയേറ്ററിൽ ആസ്വദിച്ചത്..എന്നും അതേ.... വല്ലാത്ത ഇഷ്ടമാണ് ഇദ്ദേഹത്തിന്റെ അഭിനയത്തോടുള്ള പാഷൻ കാണുമ്പോ  ഇപ്പോഴും അടിവരയിട്ട് പറയുന്നു ചരിത്രവേഷങ്ങളെ അതിന്റെ പൂർണ്ണതയിൽ എത്തിക്കാൻ ഇതിലും മികച്ച നടൻ നമുക്ക് വേറെയില്ല..  എന്ന് ഒരു കട്ട ലാലേട്ടൻ ഫാൻ  Nb:- (ഇദ്ദേഹത്തിന്റെ പ്രായത്തിൽ ജീവിച്ചിരിക്കുമോ എന്നുപോലും ഉറപ്പില്ലാത്തവരുടെ ഡീഗ്രേഡിങ് ആരും കാര്യമായി എടുക്കരുത്.. ),Positive,Positive,Positive,True,True
+89,Oru rakshayum illa..joli kazhin ksheenichirangiya enik ippo oru energy okke thonunu.. #Mamangam,Positive,Positive,Negative,True,False
+90,Kali brazilum(lalettan) Argentina ( mammookka)yum thammila.... Thee paarum.... Welcome mammookka....,Positive,Positive,Positive,True,True
+91,എന്തൊരു look എന്റമ്മച്ചി. കട്ട കലിപ്പ് look തന്നെ,Positive,Negative,Positive,False,True
+92,ഈ ലുക്കിൽ ഇക്കാന്റെ എൻട്രി ഒന്ന് ആലോചിച്ചു നോകിയെ ഉഫ് കട്ട വെയ്റ്റിംഗ്,Positive,Negative,Positive,False,True
+93,മമ്മൂക്ക മറ്റൊരു ഭാഷ മാസ്സായി പറയുമ്പോൾ കിട്ടുന്ന ഒരു ഫീൽ ഹോ അത് പറഞ്ഞരീക്കാൻ പറ്റില്ല FDFS തകർത്തിരിക്കും,Positive,Positive,Positive,True,True
+94,ഷിൻറെ ഒപ്പം വേറെയും രണ്ടുമൂന്നു പേരുണ്ട് അവരെ ആരും  കണ്ടില്ലേ... അവരെയും ഒന്ന് സപ്പോർട്ട് ചെയ്തോടെ...Feelgood  song,Positive,Positive,Mixed_feelings,True,False
+95,Ee paattum kett urangaan oru sugam thanna...,Positive,Positive,Positive,True,True
+96,Eeee mothaline thakarkkan iny aarada ullathu,Positive,Negative,Negative,False,False
+97,Lucifer kandu. Eny Ethu. Kananam.. Ohhhh.,Positive,Positive,Positive,True,True
+98,മമ്മൂക്ക   നമ്മുടെ എക്കാലത്തെയും സൂപ്പർ സ്റ്റാർ,Positive,Positive,Positive,True,True
+99,Vaan Trailer .... laleetta nigga Oru jinn Aanu kettoo.....mass voice,Positive,Positive,Positive,True,True
+100,സ്വാസികയ്ക്ക് മലയാള സിനിമയില്  ശക്തമായൊരു തിരിച്ചുവരവിന് ഈ സിനിമ വഴിയൊരുക്കട്ടെ......എല്ലാവിധ ആശംസകളും സ്വാസുവിനും  എല്ലാവര്ക്കും,Positive,Positive,Positive,True,True
+101,Hoooo.      Kilipoi,Positive,Positive,Positive,True,True
+102,152k views in 38 minutes 107k likes. Lalettan magic,Positive,Positive,Positive,True,True
+103,Ittimaniyil... LOVE und.... ACTION  illa....DRAMA und... Movie bore adipikilla..Poi.. Kandu.. Istapetu...,Positive,Negative,Mixed_feelings,False,False
+104,Ettan fan aaanu but nallathu kandal nallathanu ennu thanne parayum.....ikka mass aaayittund ....ithu pwolikkum,Positive,Mixed_feelings,Positive,False,True
+105,മരണം എന്ന മൂന്നക്ഷരത്തേ... പോരാട്ടം കൊണ്ട് ഭയപ്പെടുത്തിയ ചാവേർപടയുടെ വീരനായകന്റെ കഥ   ചാവേർപ്പടയുടെ മാമാങ്കം,Positive,Positive,Mixed_feelings,True,False
+106,"Kalipp katta kalip polichu..,. I am waiting.....",Positive,Negative,Positive,False,True
+107,ലാലേട്ടൻ പൊളിച്ചു   ലാലേട്ടന്റെ കരിയറിലെ തന്നെ ഏറ്റവും മികച്ച ഒരു മൂവി ആണ് എന്ന് തോനുന്നു  ബിഗ് ബ്രദർ    മാസ്സ് fight & Mass ഡയലോഗ്സ്   ലാലേട്ടൻ ഇസ്‌തം,Positive,Positive,Positive,True,True
+108,കാത്തിരിപ്പിന്റെ സുഖം അതൊന്ന് വേറെ തന്നെയാ     Katta waitting @ഇട്ടിമാണി,Positive,Positive,Positive,True,True
+109,Thakarthutto...  Onnalla orupaadu kaaranangalaa...  ith thakarkkum...,Positive,Negative,Negative,False,False
+110,Njnum oru fanaaaaa Prithvirajinteyum mammokkayudeyum lalettanteyum okkeeee......,Positive,Positive,Positive,True,True
+111,Simple yet beautiful  what a film എല്ലാരും അടിപൊളി ആയി.ഇങ്ങനെ വേണം സിനിമ.    Long way to go Shane,Positive,Positive,Positive,True,True
+112,Ente ponnu ettaaa ningalu njngale romancham varuthichu kollum,Positive,Positive,Negative,True,False
+113,Visual treat tanne aayirikum film ennu e song katti thannu,Positive,Positive,Positive,True,True
+114,Kidu trailer  Ikka fans like Adi,Positive,Positive,Positive,True,True
+115,kaalame ini pirakkumoo ithpoloru vismayam   Mamukka___,Positive,Positive,Mixed_feelings,True,False
+116,ഒരു അപേക്ഷ ഉള്ളു എല്ലാവരോടും  നമ്മുടെ ഇക്ക ഫാൻസ് ഒരു കുഴപ്പും അത് തന്നെയാണ്  അടുത്തത് വരുമ്പോൾ കൈയിൽ ഇരിക്കുന്നത് കളഞ്ഞിട്ട് പോകരുത്  #shylock സമയം നമ്മുക്ക് ഉണ്ട് അതുകൊണ്ട് തന്നെ promotion വേണ്ട എന്ന് അല്ല  വേണം എന്നാലും ക്രിസ്മസ് അവധി ആണ് വരുന്നത് മാമാങ്കം വിട്ട് പോകല്ലെ കട്ടക്ക് നിൽക്കണം വമ്പൻ ഹിറ്റ് ആകണം മാമാങ്കം  നമ്മളാണ് എല്ലാത്തിനും ദേവനും  അസുരനും എല്ലാ   മാമാങ്കം,Positive,Positive,Positive,True,True
+117,Ettante padathin positive  kittya pinne oruthanum mutteett karyalla. Muttolamethan polum pattilla,Positive,Negative,Negative,False,False
+118,nyzzzz work,Positive,Negative,Negative,False,False
+119,"ഈ സിനിമയിലെ ഓരൊ കഥാപാത്രവും നമ്മുടെയൊക്കെ ഉള്ളിലുണ്ട് ,അത് കൊണ്ടാണ് പടം അത്രയ്ക്ക്  ഇഷടപ്പെട്ടത്",Positive,Positive,Positive,True,True
+120,രോമാഞ്ചം അൺലിമിറ്റഡ്.. ട്രൈലെർ പോലെ തന്നെ മൂവിയും അടിപൊളിയാവട്ടെ.. ആശംസകൾ,Positive,Positive,Positive,True,True
+122,ഈ മ്യൂസിക് Compos ചെയ്തവന്റെ കഴിവ് മനസ്സിലാക്കണമെങ്കിൽ 1:30 ശ്രദ്ധിച്ചാൽ മതി ഒരു വെറൈറ്റി മിക്സ്‌ കയറ്റിയേക്കുന്നത് കാണാം... Sushin shyam,Positive,Positive,Positive,True,True
+123,Vineeth ettan produce cheyyunna   film vere enth nokana,Positive,Positive,Negative,True,False
+124,ചെക്കൻ അടുത്ത natural acter ആവുന്നു തോനുന്നുണ്ടോ..  ഫഹദിനും /സൗബിനും /ഷൈൻ നീഗത്തിനു ശേഷം nxt natural actre,Positive,Positive,Mixed_feelings,True,False
+125,Laletta kalakki.lallettan fanayalum Ikka fanayalam .Kandal Romanjam Varum .adutha level trailer. Njan like adichu.onnilparam Kandavar itil like adikku.,Positive,Positive,Positive,True,True
+126,Valiya perunnal  shane nigam ishtam,Positive,Positive,Positive,True,True
+127,Adipoli mass padam aarikkum. Ikkede alle padam,Positive,Positive,Positive,True,True
+128,Nalla oru film anuuu ellavarum poyi kanu....,Positive,Positive,Negative,True,False
+129,ഈ  സിനിമ  സൂപ്പർ  ആയിരിക്കും മഞ്ജു ചേച്ചി  നിങ്ങൾ  ഒരു  സംഭവം  ആണ്  കെട്ടോ  ചേച്ചി  പൊളിച്ചു  അടുക്കി  ഈ സിനിമ  തീയറ്ററിൽ വരാൻ കാത്തിരിക്കുന്നു,Positive,Positive,Positive,True,True
+130,LAlettanu cheyyankaziunna role mammookakum patilla athupole thanne mammooka cheyunna kathapathram Lalettanum patiyennuvarilla. ethokke nadanmaar inium vannalum manasil kuthikurichittekunna randu perukalaanu Lalettanteum Mammookaudeum,Positive,Negative,Negative,False,False
+131,Inn ni8 full repeat adich kanan ponavar ivide like adicholu,Positive,Negative,Negative,False,False
+132,Petrol vila karanam raja cycilil. polichu!!!!!,Positive,Negative,Negative,False,False
+133,That laugh ente പൊന്നു ഇക്കാ powlichu,Positive,Positive,Negative,True,False
+134,ലാലേട്ടൻ മാർഗംകളി പൊളിച്ചു........ ishtapettavar like adicheaa🤩🤩,Positive,Positive,Positive,True,True
+135,മാസ്സ് എന്നൊക്കെ പറഞ്ഞാൽ ഇതാണ് മാസ്..ഇക്കണ്ട പടം എല്ലാം സൂപ്പർ സ്റ്റാറുകളുടെയും നായകന്മാരുടെയും പടം വച്ചു പോസ്റ്ററടിക്കുമ്പോ ഇവിടെ ഒരെണ്ണം ഡയറക്ടറുടെ പേര് വച്ചു അടിച്ചു ഇറക്കിയേക്കുന്നു.. മാസ്സ്..മാസ്സ്...കൊലാമാസ്സ്...,Positive,Positive,Positive,True,True
+136,kalakki Kalakki. Onnum parayan illa,Positive,Positive,Negative,True,False
+137,എന്റെ  പൊന്നോ  കണ്ണെടുക്കാൻ  കഴിയുനില്ല,Positive,Negative,Negative,False,False
+138,പുതു താരകങ്ങളിലെ നന്മയുള്ള മാണിക്യ കല്ല് .... രാജ്യാന്തരവേദികളിൽ മികച്ച പ്രകടനം കാഴ്ച്ചവെച്ച മൂത്തോനിലെ നിവിന്റെ അഭിനയ മികവ് കാണാനായി കാത്തിരിക്കുന്നവർ ഇവിടെ കമോൺ,Positive,Positive,Positive,True,True
+139,ഈ പാട്ട് തരുന്ന Feel പറഞ്ഞറിയിക്കാൻ പറ്റില്ല sushin shyam excellent work.  Soorajettan anne amie superb singing,Positive,Positive,Positive,True,True
+140,Pwolich ikka love from ettan fan,Positive,Positive,Positive,True,True
+141,Uff.... ingnethe oru trailer malayalam industryil thanne vannukanilla. Oru rakshayum illa adaar item thanne aann മമ്മൂക്ക,Positive,Negative,Negative,False,False
+142,പടം അടിപൊളി കിടു അടി മാസ്സ്,Positive,Positive,Positive,True,True
+143,ടീസറിനെക്കാളും ട്രൈലറിനെക്കാളും വിഡിയോ സോങ് ഇഷ്ട്ടപെട്ടവർ ഇവിടെ ലൈക്‌ ഈ വർഷത്തെ ഓണകപ്പ് ഇട്ടിച്ചായനും പിള്ളേരും ഇങ്ങെടുത്തു എന്ന് പറഞ്ഞേക്ക്,Positive,Positive,Positive,True,True
+144,Mammukka oru rakshayilla     NEXT 200 CRORES IN MOLLYWOOD CINEMA,Positive,Positive,Positive,True,True
+145,വീണ്ടും ദിലീപ് ഏട്ടൻ.. കൂടെ സുഗീതും  #മാമാങ്കം #ബിഗ് ബ്രദർ  #My Santa തീയേറ്ററിൽ ഇനി ഹൗസ്ഫുൾ കാലം🥰,Positive,Positive,Positive,True,True
+146,Nalla Padama Kandavar maathram like cheyyu,Positive,Positive,Positive,True,True
+147,ഇത് കൊള്ളാം...  തീ പാറും,Positive,Positive,Positive,True,True
+148,ഇട്ടിച്ചനും പിള്ളേരും ഈ ഓണം ഇങ്ങെടുക്കുവാ....   കട്ട ലാലേട്ടൻ ഫാൻസ് ലൈക്ക് അടിക്ക്,Positive,Positive,Positive,True,True
+149,"ഏത് മ്മടെ 1983,ആക്ഷൻ hero ബിജു, പൂമരം എടുത്ത എബ്രിഡ് ഷൈനോ  ഞെട്ടിച്ചു",Positive,Positive,Positive,True,True
+150,കിങ് മേക്കർ ജോഷി സാറിന്റെ വൻ തിരിച്ചുവരവാകട്ടെ ഈ ചിത്രം എന്നാശംസിക്കുന്നു,Positive,Positive,Positive,True,True
+151,"Comedy  king ,ഉം കുട്ടികളും ഈ പടം തകർക്കും,,,!!",Positive,Negative,Positive,False,True
+152,Aadhyamayi midhun machande oru film enik kananam enna oru thonnal indakya film,Positive,Negative,Mixed_feelings,False,False
+153,ഒരു കിടുക്കാച്ചി കോമഡി  ഫാമിലി മൂവി loading,Positive,Positive,Positive,True,True
+154,Oru mass Dialogue polum illathirakki mass kattan pona movie,Positive,Negative,Positive,False,True
+155,ഒരു രക്ഷയുല്ലാട്ടോ...മാരകം... മാസ്മരികം... ജോഷി തിരിച്ചു വന്നു ആശാനേ...🤤🤤🤤,Positive,Positive,Positive,True,True
+156,എജ്ജാതി പടം <3  ഫസ്റ്റ് ഡേ കണ്ടവരുണ്ടോ ?,Positive,Positive,Positive,True,True
+157,Oru narasimham usthad okke orumich kanda oru sughm kittyy... kuliroodu kuliru... laaleettaa... raju... no rekshaa... iniyum kaanan thonnunnavr like,Positive,Positive,Positive,True,True
+158,50 സെക്കന്റ് മുതല്‍ ഉള്ള ഡയലോഗ് ഇനി വണ്ടി ഭ്രാന്തന്‍മാരുടെ സ്റ്റാറ്റസായിരിക്കും,Positive,Negative,Negative,False,False
+159,കാണുന്നതിന് മുൻപേ ലൈക് ചെയ്തത് ഞാൻ മാത്രമാണോ.. 🤩... ലാലേട്ടാ,Positive,Positive,Positive,True,True
+160,Padam kndit vndum trailer kanumpo veror feel,Positive,Negative,Negative,False,False
+161,Marana mass kettitellu. Eppam kandu.  Prithi & lalettan combo polikuumm,Positive,Positive,Positive,True,True
+162,ഇട്ടി കണ്ടു. നല്ല പടം. കുറച്ചു ലാഗ് ഉണ്ട്. ഒരു ഫൈറ്റ് ചേർക്കമായിരുന്നു. ഒരുപാട് ചിരിക്കാൻ ഉണ്ട്. കുറച്ചു A കോമഡി ഉണ്ട്. പക്ഷെ കുടുംബത്തോടെ കാണാം.,Positive,Positive,Mixed_feelings,True,False
+163,Endhu anelum ikka..  Ummah... kidilam,Positive,Negative,Negative,False,False
+164,Powlichu,Positive,Negative,Positive,False,True
+165,വീണ്ടു വീണ്ടു കണ്ടു രോമച്ചം വന്നവർ ഉണ്ടോ....,Positive,Positive,Positive,True,True
+166,Jack Daniel ന് ശേഷം ദിലീപേട്ടൻ വീണ്ടും വരുന്നു. ഒപ്പം മലയാളത്തിന്റെ പ്രിയ സംവിധായകൻ സുഗീതും. This x mas will rock.,Positive,Positive,Positive,True,True
+167,Mamookayude padamaayalum lalettan te padamaanenkilum itoru malayalam padamaanu athorkanam nammaku Ella industrikaleyum vettichu nammade Malayalam industriye unnatangalil ethikanam,Positive,Positive,Mixed_feelings,True,False
+168,Kalippe....   by katta lalettan fan,Positive,Negative,Positive,False,True
+169,Poli oru rakshayum illa...  dileep ettan...,Positive,Negative,Negative,False,False
+170,Licifer vannna ennenthe pooram vanu.....madhuraraja 6 manik thanne poyi......but l is loading...coming....minutes left,Positive,Mixed_feelings,Negative,False,False
+171,ദിലീപേട്ടൻ വ്യത്യസ്ത വേഷങ്ങൾ ചെയ്യാറുണ്ട്. വീണ്ടും ഒരു പുതുമനിറഞ്ഞ വേഷം.  ജനപ്രീയ നായകൻ ഫാൻസ്‌ come,Positive,Positive,Positive,True,True
+172,Mass entry ekka,Positive,Positive,Positive,True,True
+173,പൊളി സ്റ്റെപ്..... ufff തിയേറ്റർ അങ്ങ് കുലുങ്ങി ഇത് വന്നപ്പോ,Positive,Negative,Positive,False,True
+174,ദാസേട്ടൻ വോയിസ്‌  മമ്മൂക്ക സ്ക്രീൻ പ്രെസെൻസ്,Positive,Positive,Positive,True,True
+175,അന്നും ഇന്നും  കട്ട മമ്മൂക്ക ഫാൻസ് ആരുണ്ട്,Positive,Positive,Mixed_feelings,True,False
+176,സുരാജ്‌ ജയിക്കേണം എന്നാണ് എന്റെ ആഗ്രഹം,Positive,Positive,Positive,True,True
+177,LALETTAAA POLICHU  100 CR KOYYUM,Positive,Positive,Positive,True,True
+178,Nalloru cenima anubhavam malayalikalk sammanikunne karyam therrchayayi,Positive,Positive,Positive,True,True
+179,Trailer Valare ishtai,Positive,Positive,Positive,True,True
+180,Late aayi vannalum latest aayi varananu A10 nu istam latest aayi tanne varum  Lalettan,Positive,Positive,Positive,True,True
+181,Ithaan ikkane megaaastar aakith Ikka uyirrrr,Positive,Positive,Positive,True,True
+182,ഇതൊരു പൊളി പൊളിക്കും.. എജ്ജാതി കാസ്റ്റിംഗ്. Editing bgm direction art ഒരു രക്ഷേം ഇല്ലാ.. joshy sir strikes with a tsunami.,Positive,Positive,Mixed_feelings,True,False
+183,"ഇജ്ജാതി സിനിമകളോട് നുമ്മക് പണ്ടേ മുഹബത്താണ് പോരാത്തേന് സൗബിൻ ഇക്കായും , ഷൈൻ ഇക്കായും, ഫഹദ് ഇക്കായും ഇത് പൊരിക്കും  Feb 7",Positive,Negative,Positive,False,True
+184,1:52 mass level  Fdfs urappichavar like adikku,Positive,Positive,Positive,True,True
+185,Swasu  .. മുത്തേ..... All  the best ..... ഞങ്ങളുടെ ച ങ്കിടി പായ ടwasu ന് എല്ലാവിധ ആശംസകള്..... LOVe you ... too....,Positive,Positive,Positive,True,True
+186,Oru variety padam manakkunnu ettan uyir,Positive,Positive,Positive,True,True
+187,മമ്മൂക്ക യെ പെൺവേശത്തിൽ  കാണിക്കുന്ന രംഗം കാണണമെങ്കിൽ ചെല്ല്  ടിക്കറ്റ് എടുക്ക്  ടിയട്ടറിൽ കാണാത്തവർ നാളെ Tv യിൽ കാണുമ്പോൾ  ടിയട്ടറിൽ  കാണാൻ പറ്റാത്തത്തിൽ ദുഃഖിക്കും  ഇത് കുറിച്ചിട്ടോ   ആ Bgm  യുദ്ധരംഗം ഹ എജാതി,Positive,Positive,Mixed_feelings,True,False
+188,kidu bgm making dailogue full pwli mood ichayan,Positive,Positive,Negative,True,False
+189,"Nala patt, cinema adipoli  psycho fahad fasil",Positive,Positive,Positive,True,True
+190,Prayam koodundorum soundaryam koodunna ore oraal.. Mammookka,Positive,Positive,Positive,True,True
+191,Ikka ejjathi look... ejjathi entry,Positive,Positive,Positive,True,True
+192,"നല്ല ഗാനം, സുഹൃത്തുക്കളെ ഞാൻ സാഹിത്യകാരണാണ്, ഗാനം, സിനിമ ഇഷ്ടപ്പെടുന്നു. എന്റെ youtube ചാനൽ Subscribe ചെയ്യണേ കുട്ടുകാരെ.",Positive,Positive,Positive,True,True
+193,Mammookka ithelum mass aayi big b il varunnund ith verum sample,Positive,Positive,Positive,True,True
+194,മലയാള സിനിമ ഇത് എന്തിനുള്ള പുറപ്പാടാ. amazing,Positive,Positive,Positive,True,True
+195,Mech ഇല്‍ ഓണം സെലിബ്രേഷന്‍ ആണ്‌ ചേട്ടാ...``   ആ ചിരി പൊളിച്ച് 2:25,Positive,Positive,Positive,True,True
+196,പൊറിഞ്ചു മറിയം ജോസ് ടീമിലെ എല്ലാ അംഗങ്ങൾക്കും ഒരു all the best... പ്രത്യേകിച്ചും ഞങ്ങടെ സ്വാസൂട്ടിക്ക് ഒരു പാട് ഉയരങ്ങളിൽ എത്തട്ടെന്ന് ആത്മാർത്ഥമായി പ്രാർത്ഥിക്കുന്നു....,Positive,Positive,Positive,True,True
+197,Malayalam cinema technical aayi orupaad uyarattee. Valiya budget quality films iniyum ithe pole undavatte.,Positive,Positive,Positive,True,True
+198,EE  oonam ETT!M@@N! KONDUPOOKUM THERRCHA.....,Positive,Positive,Positive,True,True
+199,ഇടവേളകളിലെ പഫ്സും ഡ്രിംഗ്സും ക്ലാസുകളിലെ ചെറുകുരുത്തക്കേടുകളും പരീക്ഷകളിലെ മഹത്തായ മാർക്കുകളും ഇനിയൊരിക്കലും തിരിച്ച് കിട്ടാത്ത ആ +1 & +2 കാലത്തെയും ഓർമ്മിപ്പിച്ച്   ഒരു തണ്ണീർമത്തൻ ദിനം  Miss u guyzzzz,Positive,Positive,Mixed_feelings,True,False
+200,Ithupolathe kidilan trailer vannitt katta support kodukkathirikkan pattumo it is very awesome,Positive,Positive,Positive,True,True
+201,Ettan fans like button pottich kaanich kodkk,Positive,Positive,Negative,True,False
+202,polichu muthe laleta enna glamour aa postersiloke,Positive,Negative,Positive,False,True
+203,ജോജോ  മച്ചാന്റെ  അടുത്ത  ഹിറ്റ്‌... കട്ട വെയ്റ്റിംഗ്,Positive,Positive,Positive,True,True
+204,"ഇത് കണ്ടാലേ അറിയാം സൂപ്പർ മൂവി ആണെന്ന്, മഞ്ജു 🤩🥰🥰",Positive,Positive,Positive,True,True
+205,Maamankam industrial hit aavm ennulavar . anyone...,Positive,Positive,Positive,True,True
+206,ഷൈൻ അടിപ്പോളിയാണ് പക്ഷെ സൗബിൻ ഈ ചിത്രത്തിൽ ഞെട്ടിച്ചു കളഞ്ഞു.........,Positive,Mixed_feelings,Positive,False,True
+207,ഒരുപാട് ആക്ഷൻ മൂവിസിന് ശേഷം പഴയ മോഹനലാലായി തിരിച്ചു വന്നിരിക്കുന്നു  ലാലേട്ടാ സൂപ്പർ,Positive,Positive,Positive,True,True
+208,Ufff vere level ikkaaa ingha pwoli aahn,Positive,Positive,Positive,True,True
+209,Orikkal kandal orikkalum marakkatha drishyanubavam addayirikkum mamangam Oru like thannoode,Positive,Positive,Positive,True,True
+210,Trailer  thanne 100 vattam kaanan thonna..... padam poliyaanu appo...🤘🤘🤘🤘🤘,Positive,Negative,Negative,False,False
+211,പടം പൊളിച്ചു.. എജ്ജാതി ഫിലിം.. ഷൈൻ,Positive,Positive,Positive,True,True
+212,Ini madhu chettan brilliance kandu pidikendi varum,Positive,Positive,Positive,True,True
+213,Oru rakshayum illaaatha waiting  ഒന്നൊന്നര ട്രൈലെർ,Positive,Negative,Negative,False,False
+214,ente mamookkaa.... ijjathi....  romaja.kanjukam..  mammootti istham....  ithu kalakkum.. polikkum... thimirkkum,Positive,Positive,Positive,True,True
+216,Rajauda kalii enum keralam kannan pokunnaa olluu🤩🤩,Positive,Positive,Positive,True,True
+217,sukurthukkale enikk oru karyave parayanollu dis like adichum aavishyam illatha troll paranjum veruppikkalle nammade swathalle lalettan nammal malayalikalude abhimanamalle,Positive,Positive,Negative,True,False
+218,Wow.... എന്നാ ഒരു ഗൃഹാതുരത്വം ആട ഉവേ..,Positive,Negative,Positive,False,True
+219,Become an arjun asokaN fan. .. padam kalakki,Positive,Positive,Positive,True,True
+363,Copy adicha padan nanam illlallo poorikale,Negative,Negative,Negative,True,True

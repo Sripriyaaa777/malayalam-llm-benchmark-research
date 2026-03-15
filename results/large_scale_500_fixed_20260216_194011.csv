@@ -1,0 +1,5 @@
+sample_id,text,true_label,llama_pred,mistral_pred,llama_correct,mistral_correct
+1,lalettaaaaaa....luv you.....e movie arengaan wait cheyuneveer endoo,Positive,Positive,Positive,True,True
+2,ചാക്കോച്ചന്റെ അഞ്ചാംപാതിരായ്ക്ക് വിജയാശംസകളോടെ.... മമ്മൂക്കഫാൻസ്‌ കണ്ണൂർ,Positive,Positive,Positive,True,True
+51,Tgf nu shesham Nalla moodulla mattoru malayala film aavum.,Positive,Positive,Positive,True,True
+336,Trailer kandapo oru karyam urapichu #LAD,Negative,Positive,Positive,False,False

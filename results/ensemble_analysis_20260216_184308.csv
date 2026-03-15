@@ -1,0 +1,70 @@
+text,true_label,llama_pred,mistral_pred,ensemble_pred,ensemble_method,llama_correct,mistral_correct,ensemble_correct
+lalettaaaaaa....luv you.....e movie arengaan wait cheyuneveer endoo,Positive,Positive,Positive,Positive,agreement,True,True,True
+ചാക്കോച്ചന്റെ അഞ്ചാംപാതിരായ്ക്ക് വിജയാശംസകളോടെ.... മമ്മൂക്കഫാൻസ്‌ കണ്ണൂർ,Positive,Positive,Positive,Positive,agreement,True,True,True
+മാമാങ്കത്തിന് family കുറച്ചു  കുറയാൻ ഉള്ള എല്ലാ സാധ്യതകളും കാണുന്നു . My സാന്റാ  ഒരെ പൊളി .ഒരു beautiful fantasy movie പ്രതീക്ഷിക്കാം. കുട്ടികൾ തന്നെ കേറി വൻ വിജയം ആക്കും . Waitting for തിയേറ്റർ എക്സ്പീരിയൻസ്,Positive,Positive,Positive,Positive,agreement,True,True,True
+2019 ലെ ഒരു വലിയ hit  കാസ്റ്റിംഗ്,Positive,Positive,Positive,Positive,agreement,True,True,True
+Rajuvetta katta waiting for Lucifer,Positive,Positive,Positive,Positive,agreement,True,True,True
+Polichu...  namude ലാലേട്ടൻ.. ...  rajuchettan,Positive,Positive,Positive,Positive,agreement,True,True,True
+Oru songil tane itrayum comedy apo onam ittymani kond poyi enu paranjekk,Positive,Negative,Negative,Negative,agreement,False,False,False
+Trailer ndoke erakiyalum lalettante record thakarkan lalettanu matre pattu,Positive,Positive,Negative,Positive,llama_fallback,True,False,True
+Ittichan da  mwne sanbavm pwlikm !onam winner,Positive,Positive,Positive,Positive,agreement,True,True,True
+Padachooone....BGM..kett vaaa polich poyath njn mathram aaahno.?,Positive,Negative,Negative,Negative,agreement,False,False,False
+Teateril നിന്ന് ഏറ്റവും കൂടുതൽ കയ്യടി വാങ്ങിയ ഒരു ഭാഗം ഈ സോങ് ആണ്...... enthe crct alle?,Positive,Positive,Positive,Positive,agreement,True,True,True
+trailer kaanumbo oru romaanjam.. royal mech.. kidu.. :-),Positive,Positive,Positive,Positive,agreement,True,True,True
+പ്രതീക്ഷിച്ചതുപോലെ നല്ലൊരു കിടിലൻ ട്രൈലെർ  fully filled with fantasy  എങ്ങും ഒരു ഹോളിവുഡ് ടച്ച്‌  കൂടെ english സോങ് കൂടി ആയപ്പോ കലക്കി.. അപ്പൊ എന്തായാലും ക്രിസ്മസ്നു ദീലീപേട്ടൻ ഒരു വരവ് വരുകയാ 🤘 എല്ലാവർക്കും എന്റെ ഹാപ്പി ക്രിസ്മസ്,Positive,Positive,Positive,Positive,agreement,True,True,True
+Song പൊളിച്ചു last ഇക്ക വരുമെന്ന് വിചാരിച്ചു. ഇക്ക ലേറ്റാ വന്താലും latest aa varuve,Positive,Mixed_feelings,Negative,Mixed_feelings,llama_fallback,False,False,False
+2k19 മമ്മുക്കയുടെ വർഷം ആയത് പോലെ 2k20 മമ്മുക്കയുടെ ആയി മാറട്ടെ,Positive,Positive,Positive,Positive,agreement,True,True,True
+Annum Innum Ikkayude Bthday nnu vachal nammal malayalikal ellarum oru atbudama...   Vayasulpade tettate malayalikal parayan  Matethu nadanundu inganoru pretyekata  #Ikka,Positive,Positive,Positive,Positive,agreement,True,True,True
+Ittimani onam kondupokum ennu urappullavarke like adikkanulla oru 50 acre ivide vachitunde....edutho...,Positive,Negative,Negative,Negative,agreement,False,False,False
+"ദിവസവും ഈ പാട്ട് രണ്ട് നേരം എങ്കിലും കേട്ടില്ലങ്കിൽ എന്തോ പോലെ ,പ്രഹസനമല്ല സത്യായിട്ടും.",Positive,Positive,Positive,Positive,agreement,True,True,True
+"ഈ സിനിമയെ degrade ചെയ്യാൻ നോക്കുന്നവരൊക്കെ പോയി വേറെ പണി നോക്കടെ... ഞാൻ ഒരു #ലാലേട്ടൻ fan ആണ്, എന്നാലും പറയുവാ ഇതു നല്ലൊരു സിനിമയാണ്... #മമ്മൂക്ക",Positive,Positive,Positive,Positive,agreement,True,True,True
+Kurach massum aayittanallo jayetta ipravishathe varav,Positive,Positive,Positive,Positive,agreement,True,True,True
+Uff romanjam kond irinaduth ninn njan enit ninn poyi,Positive,Positive,Negative,Positive,llama_fallback,True,False,True
+"എന്താടാ നിങ്ങൾ പറഞ്ഞെ.. പഴയ ഡിറക്ടർസ്, പണ്ടത്തെ ആഹ് ഒരു ഗുമൊന്നും ഇപ്പോഴില്ല,  എന്ന് പറഞ്ഞ ചീള് ന്യൂ ജനറേഷനോളികൾ എവിടാടാ??  വാടാ..  വാടാ !! ജോഷി സർ ബാക്ക് ഓൺ താ ഫ്ലോർ !!!!",Positive,Positive,Negative,Positive,llama_fallback,True,False,True
+എല്ലാവര്‍ക്കും ഹൃദയം നിറഞ്ഞ ക്രിസ്മസ് ആശംസകള്‍,Positive,Positive,Positive,Positive,agreement,True,True,True
+Nalla rasam ubdae,Positive,Positive,Positive,Positive,agreement,True,True,True
+ഫഹദ്   polich  movieyil psycho,Positive,Positive,Positive,Positive,agreement,True,True,True
+Lalettan polippichengil.  Adik oru big like,Positive,Positive,Positive,Positive,agreement,True,True,True
+Addddiiiiipolliiiii.....marana masss.....oru sakshem illa....lalettande kidu look.....🤩🤩,Positive,Positive,Positive,Positive,agreement,True,True,True
+അതെ നമ്മുടെ ഏട്ടൻ .I LOVE YOU ലാലേട്ടാ ...,Positive,Positive,Positive,Positive,agreement,True,True,True
+Idivett trailer . Mammukka ennum njangalde swantham,Positive,Positive,Positive,Positive,agreement,True,True,True
+പയ്യന്നൂർ ന്റെ സ്വന്തം അനശ്വര കുട്ടി യും,Positive,Positive,Positive,Positive,agreement,True,True,True
+Trailer le mikka bagangalum theater il miss aayi ennu enikku maathram aano thoniyathu ?? Pala bagangalum cut cheytha pole ?  Enthokke aanelum padam kidu aanu tta..!  Kudos to crew  From #arts_clg,Positive,Positive,Mixed_feelings,Positive,llama_fallback,True,False,True
+Trailer il എടുത്തു പറയേണ്ടത് ഇതാണ് “ ഗോപി സുന്ദർ പൊളിച്ചു അടിക്കിയിട്ടുണ്ട് ”. വേറെ ലെവൽ BGM [background music],Positive,Positive,Positive,Positive,agreement,True,True,True
+SHANE NTEഫ്രണ്ട് മച്ചാൻ വേറെ ലെവൽ,Positive,Positive,Positive,Positive,agreement,True,True,True
+ഫഹദ് ഇക്ക നിങ്ങ പൊളിയാണ്. കഷണ്ടി കാരുടെ അഭിമാനവും ആത്മവിശ്വാസവുമാണ് നിങ്ങൾ  ഫഹദിക്ക ഇഷ്തം,Positive,Positive,Positive,Positive,agreement,True,True,True
+Police pwoli anallo...lal inte thirichu varavu...,Positive,Negative,Negative,Negative,agreement,False,False,False
+Raja 100 core kadakum ennu urappulavarke like adiche polikanulla button... Ikka,Positive,Negative,Positive,Negative,llama_fallback,False,True,False
+മലയാളത്തിന്റെ മാമാങ്ക മഹോത്സവത്തിന് ആയിരങ്ങളുടെ കാത്തിരിപ്പ്. ഫാൻ ഫൈറ്റ് മാറ്റി വെച്ച് ഒന്നിച്ച് പ്രോത്സാഹിപ്പിക്കൂ അതുല്ല്യ മലയാള കലാ കാരന്മാരെ,Positive,Positive,Positive,Positive,agreement,True,True,True
+Padam clss ann വേറെ level ayirikum,Positive,Positive,Positive,Positive,agreement,True,True,True
+വിരിഞ്ഞ നെഞ്ച് ഉള്ളവർ ഉണ്ടായിട്ട് എന്ത് കാര്യം.. എന്നുമീ ചരിഞ്ഞ തോളിൽ അല്ലേ മലയാള സിനിമഏട്ടൻ,Positive,Positive,Negative,Positive,llama_fallback,True,False,True
+എത്ര കേട്ടാലും മതി വരാത്ത സോങ്,Positive,Negative,Positive,Negative,llama_fallback,False,True,False
+ആരും സഞ്ചരിക്കാത്ത വഴികളിലൂടെ നിവിൻ സഞ്ചരിച്ചു തുടങ്ങി,Positive,Positive,Mixed_feelings,Positive,llama_fallback,True,False,True
+kanunnathin  anusarich veendum veendum kanan thonnunu,Positive,Negative,Negative,Negative,agreement,False,False,False
+Super  കേട്ടാലും കേട്ടാലും മടുക്കാത്ത song,Positive,Positive,Positive,Positive,agreement,True,True,True
+Onnum parayanilla... ഒരു pidiyum kittunnilla... waiting for.... pathinettam പടി..... Rockkk Mammookka .,Positive,Positive,Negative,Positive,llama_fallback,True,False,True
+മലയാള സിനിമക്ക് എന്നും ശക്തമായ സ്ത്രീകഥാപാത്രങ്ങൾ തന്ന മഞ്‍ജു ചേച്ചി മറ്റൊരു ശക്തമായ കഥാപാത്രവുമായി വീണ്ടും,Positive,Positive,Positive,Positive,agreement,True,True,True
+ഒരു ശക്തമായ കപാത്രം  ജോജു കൊട് കൈയ്യടി......,Positive,Positive,Positive,Positive,agreement,True,True,True
+Kure  നാളുകളായി ഒരു സാധാരണ പടം ആഗ്രഹിക്കുന്നു. അത് ഇതിലുണ്ടാവണമെന്ന് പ്രതീക്ഷിക്കുന്നു,Positive,Positive,Negative,Positive,llama_fallback,True,False,True
+"ഈ പാട്ടിനു എങ്ങനെ ഡിസ്‌ലൈക്ക് അടിക്കാൻ തോന്നി?? ആ സ്റ്റേജിൽ ഉള്ളവരിൽ ഏറ്റവം നന്നായി കളിച്ചതു ലാലേട്ടൻ ആണെന്ന് ആർക്കൊകെ തോന്നി, സ്റ്റീഫൻ നെടുമ്പള്ളി തന്നെ ആണോ ith? ഓണം ഇട്ടിച്ചായൻ കൊണ്ടുപോകും, ഉറപ്പ്.",Positive,Positive,Mixed_feelings,Positive,llama_fallback,True,False,True
+ഇപ്പോഴും വന്നു കണ്ട് രോമാഞ്ചിഫിക്കേഷൻ ആവുന്നവർ ഇവിടെ ലൈക്‌ അടി...,Positive,Positive,Positive,Positive,agreement,True,True,True
+പടം ഇറങ്ങിയിട്ട് 2 മാസം ആയിട്ടും ഇപ്പോഴും കേൾക്കുന്നു,Positive,Positive,Positive,Positive,agreement,True,True,True
+അയ്യേ.... ഇത് പണ്ടേ ഇറങ്ങിയ പടം അല്ലെ വല്യേട്ടൻ,Negative,Negative,Negative,Negative,agreement,True,True,True
+Thelunku nadan ..bhaala krishnayeyum... Thal nadan vijaya kaandhineyum ..naanipichu...mammuunny...,Negative,Positive,Positive,Positive,agreement,False,False,False
+Malayalathil nalla nadimar illanjittano eee ammayiyea konduvanne... nthu bore aanu avarude abhinayam porathenu enthu oooola lukkanu... sheeeeeaaaaaa valare bore aayippoyi.. ee ammayi ivide kanillayirikkum ini...🤔🤔🤨🤨,Negative,Negative,Negative,Negative,agreement,True,True,True
+Ethilum betham gopi sunderaa kayamkulamkochunni enna movie songs nallathayirunnu,Negative,Positive,Positive,Positive,agreement,False,False,False
+ഈ പാട്ട് rasallyaa.. അടുത്തത് നോക്കാം.. MJ ser...,Negative,Mixed_feelings,Positive,Mixed_feelings,llama_fallback,False,False,False
+Chettatharam kanich... App upayogich dislike adichavarod,Negative,Negative,Negative,Negative,agreement,True,True,True
+കുന്നംകുളം ഒഴിച്ച് ബാക്കി എല്ലാ നാട്ടിലെയും സ്ലാങ് ഇയാൾ ഇതിൽ പറയുന്നുണ്ട്. ഈ പൊട്ടൻ എത്ര നാൾ ഇങ്ങനെ തള്ളി പിടിച്ചു നിൽക്കും.,Negative,Negative,Negative,Negative,agreement,True,True,True
+8 നിലയിൽ പൊട്ടും എന്ന് ഉറപ്പ് ആയി,Negative,Negative,Negative,Negative,agreement,True,True,True
+Itinum dislike adikkan aalundallo...nallatine angeegarikkan padikk... duranthangal...,Negative,Negative,Negative,Negative,agreement,True,True,True
+Apo athum potti .. aaaa pratheekshayum poyi,Negative,Negative,Negative,Negative,agreement,True,True,True
+വടക്കൻ വീരഗാഥയിലെ പാട്ടു പോലെ പ്രതീക്ഷിച്ചു - but  ഇത് ലോക്കൽ പാട്ടും സൂപ്പർ Scenes ഉം,Negative,Mixed_feelings,Mixed_feelings,Mixed_feelings,agreement,False,False,False
+Aayea.... ithu oru unda aavolo.... boar ....,Negative,Negative,Negative,Negative,agreement,True,True,True
+"മമ്മുക്കയെ കാണാൻ വന്നതാ, ഊള പാട്ട്, തട്ടി കൂട്ടി പാട്ട് അത്രയേ ഉള്ളു",Negative,Negative,Negative,Negative,agreement,True,True,True
+സീരിയൽ കാണുന്ന പോലെ ഉണ്ട് .. സിനിമ അങ്ങനെ ആവാതിരിക്കാൻ പ്രതീക്ഷിക്കുന്നു,Negative,Negative,Negative,Negative,agreement,True,True,True
+"കിളിച്ചുണ്ടൻ മാമ്പഴം റീലോഡഡ് .  മലയാളം സിനിമകൾ മാത്രം കാണുന്നവർക്ക് ,അന്തം വിട്ടിരിക്കാം .പ്രിയദർശനല്ലെ ,ഒരു വിധപ്പെട്ട എല്ലാ ഹോളിവുഡ് സിനിമയിൽ നിന്നും വിഷ്വൽസ് ചോർത്തിയിട്ടുണ്ടാകും .",Negative,Negative,Negative,Negative,agreement,True,True,True
+paandi raaja .Annan thanbi.pandi padam nirthi Lucifer movie  pole maaran sramik,Negative,Positive,Mixed_feelings,Positive,llama_fallback,False,False,False
+Pottum  bengaali look  IDGAF mon,Negative,Negative,Negative,Negative,agreement,True,True,True
+ഇവളുടെ കയ്യിൽ ഒക്കെ ആരാ സിനിമ കൊടുക്കുന്നത് അ ഹൗ ഓൾഡ് ആർ യു അല്ലാതെ ഏത് സിനിമയ വിജയിച്ചത്,Negative,Negative,Negative,Negative,agreement,True,True,True
+ITHU ENTHONNU DANCE AANU??MAMMOOKKAKKU AAMAVADHAM PIDICHO??DAYAVU CHEYTHU MAMMOOKKAYODU INI MELAL DANCE KALICHEKKALLE ENNU PARAYU.,Negative,Negative,Negative,Negative,agreement,True,True,True
