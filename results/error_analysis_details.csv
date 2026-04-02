@@ -1,0 +1,183 @@
+sample_id,text,true_label,llama_pred,mistral_pred,is_error,malayalam_pct,text_length,error_category
+7,Oru songil tane itrayum comedy apo onam ittymani kond poyi enu paranjekk,Positive,Negative,Negative,True,0.0,72,Sarcasm/Irony Misinterpretation
+8,Trailer ndoke erakiyalum lalettante record thakarkan lalettanu matre pattu,Positive,Positive,Negative,True,0.0,74,Clear Sentiment Flip
+10,Padachooone....BGM..kett vaaa polich poyath njn mathram aaahno.?,Positive,Negative,Negative,True,0.0,64,Clear Sentiment Flip
+14,Song പൊളിച്ചു last ഇക്ക വരുമെന്ന് വിചാരിച്ചു. ഇക്ക ലേറ്റാ വന്താലും latest aa varuve,Positive,Negative,Negative,True,68.05555555555556,83,Clear Sentiment Flip
+17,Ittimani onam kondupokum ennu urappullavarke like adikkanulla oru 50 acre ivide vachitunde....edutho...,Positive,Negative,Negative,True,0.0,103,Clear Sentiment Flip
+21,Uff romanjam kond irinaduth ninn njan enit ninn poyi,Positive,Negative,Negative,True,0.0,52,Clear Sentiment Flip
+22,"എന്താടാ നിങ്ങൾ പറഞ്ഞെ.. പഴയ ഡിറക്ടർസ്, പണ്ടത്തെ ആഹ് ഒരു ഗുമൊന്നും ഇപ്പോഴില്ല,  എന്ന് പറഞ്ഞ ചീള് ന്യൂ ജനറേഷനോളികൾ എവിടാടാ??  വാടാ..  വാടാ !! ജോഷി സർ ബാക്ക് ഓൺ താ ഫ്ലോർ !!!!",Positive,Positive,Negative,True,90.20979020979021,171,Clear Sentiment Flip
+31,Trailer le mikka bagangalum theater il miss aayi ennu enikku maathram aano thoniyathu ?? Pala bagangalum cut cheytha pole ?  Enthokke aanelum padam kidu aanu tta..!  Kudos to crew  From #arts_clg,Positive,Positive,Mixed_feelings,True,0.0,195,Mixed Sentiment Confusion
+35,Police pwoli anallo...lal inte thirichu varavu...,Positive,Negative,Negative,True,0.0,49,Sarcasm/Irony Misinterpretation
+39,വിരിഞ്ഞ നെഞ്ച് ഉള്ളവർ ഉണ്ടായിട്ട് എന്ത് കാര്യം.. എന്നുമീ ചരിഞ്ഞ തോളിൽ അല്ലേ മലയാള സിനിമഏട്ടൻ,Positive,Positive,Negative,True,97.53086419753086,92,Clear Sentiment Flip
+41,ആരും സഞ്ചരിക്കാത്ത വഴികളിലൂടെ നിവിൻ സഞ്ചരിച്ചു തുടങ്ങി,Positive,Positive,Mixed_feelings,True,100.0,54,Mixed Sentiment Confusion
+42,kanunnathin  anusarich veendum veendum kanan thonnunu,Positive,Negative,Negative,True,0.0,53,Clear Sentiment Flip
+44,Onnum parayanilla... ഒരു pidiyum kittunnilla... waiting for.... pathinettam പടി..... Rockkk Mammookka .,Positive,Positive,Negative,True,6.521739130434782,103,Clear Sentiment Flip
+47,Kure  നാളുകളായി ഒരു സാധാരണ പടം ആഗ്രഹിക്കുന്നു. അത് ഇതിലുണ്ടാവണമെന്ന് പ്രതീക്ഷിക്കുന്നു,Positive,Positive,Mixed_feelings,True,93.5064935064935,86,Mixed Sentiment Confusion
+48,"ഈ പാട്ടിനു എങ്ങനെ ഡിസ്‌ലൈക്ക് അടിക്കാൻ തോന്നി?? ആ സ്റ്റേജിൽ ഉള്ളവരിൽ ഏറ്റവം നന്നായി കളിച്ചതു ലാലേട്ടൻ ആണെന്ന് ആർക്കൊകെ തോന്നി, സ്റ്റീഫൻ നെടുമ്പള്ളി തന്നെ ആണോ ith? ഓണം ഇട്ടിച്ചായൻ കൊണ്ടുപോകും, ഉറപ്പ്.",Positive,Positive,Mixed_feelings,True,94.28571428571428,199,Mixed Sentiment Confusion
+53,Trailer കാണുന്നേ മുൻപേ like അടിച്ചവർ ഇവടെ കമോണ്,Positive,Negative,Negative,True,73.17073170731707,47,Clear Sentiment Flip
+54,Entae jeevathil ithrayum pravishyam trailer kanda verae oru cinemayum illa,Positive,Negative,Negative,True,0.0,74,Clear Sentiment Flip
+57,Enta ikka polichu   Kidu item  Ethu polikkum,Positive,Positive,Negative,True,0.0,44,Clear Sentiment Flip
+60,Ella recordum theerkaan kazhiyatte ennaasamsikunnu...Enkil maathre e record marakaar release aavumbo thiruthaan saadhikku,Positive,Negative,Negative,True,0.0,121,Clear Sentiment Flip
+62,Mmale Thrissurile jedikale film..ith pwolikum tta,Positive,Negative,Negative,True,0.0,49,Sarcasm/Irony Misinterpretation
+63,E padathinte making ushar aanenu thonunu..  Trailer kanditt padam kandathokem thallipoli aayirnu.  But trailer pwolichu,Positive,Mixed_feelings,Mixed_feelings,True,0.0,119,Sarcasm/Irony Misinterpretation
+71,ചിന്ത പാളുന്ന കൊല്ലകൊല്ലി ഐറ്റം   മാമാങ്കത്തിൽ ക്ലാസ്സ്‌ ആയിരുന്ന ഇക്ക  ഷൈലോക്കിൽ ട്രിപ്പിൾ മാസിൽ,Positive,Positive,Mixed_feelings,True,98.80952380952381,97,Mixed Sentiment Confusion
+74,ഇൗ പിള്ളേരൊക്കെ പറയുവല്ലോ എന്തുവാ കൊലമാസ്സ്‌ അത് തന്നെ,Positive,Negative,Negative,True,97.91666666666666,54,Clear Sentiment Flip
+77,ഭവനെ... കൊല ഗാണ്ടിലെ ഇറുക്ക്... ഹഹ...കൊല്ലാമ വിടമാട്ടേൻ...   ന്റമ്മോ ജ്ജാതി ഡയലോഗ്,Positive,Positive,Negative,True,83.33333333333334,82,Clear Sentiment Flip
+79,ഇത് എപ്പ പൊളിച്ചൂന്ന് ചോദിച്ചാ പോരെkatta waiting...................,Positive,Negative,Negative,True,50.0,67,Clear Sentiment Flip
+80,inni Kanji chodichu Arum varandaa....Assalu Biriyani thanne Thannittund.         Lucifer,Positive,Positive,Negative,True,0.0,88,Clear Sentiment Flip
+83,Enne pole katta waiting ayi nikunavar adi oru,Positive,Negative,Negative,True,0.0,45,Clear Sentiment Flip
+84,ആദ്യത്തെ സംസാരം കേട്ടപ്പോ ഓർത്ത് കരിക്കിലെ പിള്ളേരും ഉണ്ടെന്ന്  സൗബിനിക്ക വാട്ട്‌ a ട്രാൻസ്ഫോർമേഷൻ മാൻ   കട്ട വെയ്റ്റിംഗ്   Ps: ഭാവന സ്റ്റുഡിയോസ്  പോത്തേട്ടൻ അറ്റെൻഷൻ ടു ഡീറ്റെയിൽസ് കിടുക്കാച്ചി.,Positive,Positive,Mixed_feelings,True,96.42857142857143,195,Mixed Sentiment Confusion
+89,Oru rakshayum illa..joli kazhin ksheenichirangiya enik ippo oru energy okke thonunu.. #Mamangam,Positive,Positive,Negative,True,0.0,95,Clear Sentiment Flip
+94,ഷിൻറെ ഒപ്പം വേറെയും രണ്ടുമൂന്നു പേരുണ്ട് അവരെ ആരും  കണ്ടില്ലേ... അവരെയും ഒന്ന് സപ്പോർട്ട് ചെയ്തോടെ...Feelgood  song,Positive,Positive,Mixed_feelings,True,82.17821782178217,115,Mixed Sentiment Confusion
+96,Eeee mothaline thakarkkan iny aarada ullathu,Positive,Negative,Negative,True,0.0,44,Clear Sentiment Flip
+103,Ittimaniyil... LOVE und.... ACTION  illa....DRAMA und... Movie bore adipikilla..Poi.. Kandu.. Istapetu...,Positive,Negative,Mixed_feelings,True,0.0,105,Mixed Sentiment Confusion
+105,മരണം എന്ന മൂന്നക്ഷരത്തേ... പോരാട്ടം കൊണ്ട് ഭയപ്പെടുത്തിയ ചാവേർപടയുടെ വീരനായകന്റെ കഥ   ചാവേർപ്പടയുടെ മാമാങ്കം,Positive,Positive,Mixed_feelings,True,96.875,108,Mixed Sentiment Confusion
+109,Thakarthutto...  Onnalla orupaadu kaaranangalaa...  ith thakarkkum...,Positive,Negative,Negative,True,0.0,69,Clear Sentiment Flip
+112,Ente ponnu ettaaa ningalu njngale romancham varuthichu kollum,Positive,Positive,Negative,True,0.0,61,Clear Sentiment Flip
+115,kaalame ini pirakkumoo ithpoloru vismayam   Mamukka___,Positive,Positive,Mixed_feelings,True,0.0,54,Mixed Sentiment Confusion
+117,Ettante padathin positive  kittya pinne oruthanum mutteett karyalla. Muttolamethan polum pattilla,Positive,Negative,Negative,True,0.0,97,Clear Sentiment Flip
+118,nyzzzz work,Positive,Negative,Negative,True,0.0,11,Clear Sentiment Flip
+123,Vineeth ettan produce cheyyunna   film vere enth nokana,Positive,Positive,Negative,True,0.0,55,Clear Sentiment Flip
+124,ചെക്കൻ അടുത്ത natural acter ആവുന്നു തോനുന്നുണ്ടോ..  ഫഹദിനും /സൗബിനും /ഷൈൻ നീഗത്തിനു ശേഷം nxt natural actre,Positive,Positive,Mixed_feelings,True,66.30434782608695,106,Mixed Sentiment Confusion
+128,Nalla oru film anuuu ellavarum poyi kanu....,Positive,Positive,Negative,True,0.0,44,Clear Sentiment Flip
+130,LAlettanu cheyyankaziunna role mammookakum patilla athupole thanne mammooka cheyunna kathapathram Lalettanum patiyennuvarilla. ethokke nadanmaar inium vannalum manasil kuthikurichittekunna randu perukalaanu Lalettanteum Mammookaudeum,Positive,Negative,Negative,True,0.0,233,Clear Sentiment Flip
+131,Inn ni8 full repeat adich kanan ponavar ivide like adicholu,Positive,Negative,Negative,True,0.0,59,Clear Sentiment Flip
+132,Petrol vila karanam raja cycilil. polichu!!!!!,Positive,Negative,Negative,True,0.0,46,Clear Sentiment Flip
+133,That laugh ente പൊന്നു ഇക്കാ powlichu,Positive,Positive,Negative,True,34.375,37,Clear Sentiment Flip
+136,kalakki Kalakki. Onnum parayan illa,Positive,Positive,Negative,True,0.0,35,Clear Sentiment Flip
+137,എന്റെ  പൊന്നോ  കണ്ണെടുക്കാൻ  കഴിയുനില്ല,Positive,Negative,Negative,True,100.0,39,Clear Sentiment Flip
+141,Uff.... ingnethe oru trailer malayalam industryil thanne vannukanilla. Oru rakshayum illa adaar item thanne aann മമ്മൂക്ക,Positive,Negative,Negative,True,7.547169811320755,121,Clear Sentiment Flip
+152,Aadhyamayi midhun machande oru film enik kananam enna oru thonnal indakya film,Positive,Negative,Mixed_feelings,True,0.0,78,Mixed Sentiment Confusion
+158,50 സെക്കന്റ് മുതല്‍ ഉള്ള ഡയലോഗ് ഇനി വണ്ടി ഭ്രാന്തന്‍മാരുടെ സ്റ്റാറ്റസായിരിക്കും,Positive,Negative,Negative,True,94.36619718309859,79,Clear Sentiment Flip
+160,Padam kndit vndum trailer kanumpo veror feel,Positive,Negative,Negative,True,0.0,44,Clear Sentiment Flip
+162,ഇട്ടി കണ്ടു. നല്ല പടം. കുറച്ചു ലാഗ് ഉണ്ട്. ഒരു ഫൈറ്റ് ചേർക്കമായിരുന്നു. ഒരുപാട് ചിരിക്കാൻ ഉണ്ട്. കുറച്ചു A കോമഡി ഉണ്ട്. പക്ഷെ കുടുംബത്തോടെ കാണാം.,Positive,Positive,Mixed_feelings,True,93.65079365079364,145,Mixed Sentiment Confusion
+163,Endhu anelum ikka..  Ummah... kidilam,Positive,Negative,Negative,True,0.0,37,Clear Sentiment Flip
+167,Mamookayude padamaayalum lalettan te padamaanenkilum itoru malayalam padamaanu athorkanam nammaku Ella industrikaleyum vettichu nammade Malayalam industriye unnatangalil ethikanam,Positive,Positive,Mixed_feelings,True,0.0,179,Mixed Sentiment Confusion
+169,Poli oru rakshayum illa...  dileep ettan...,Positive,Negative,Negative,True,0.0,43,Clear Sentiment Flip
+170,Licifer vannna ennenthe pooram vanu.....madhuraraja 6 manik thanne poyi......but l is loading...coming....minutes left,Positive,Mixed_feelings,Negative,True,0.0,118,Clear Sentiment Flip
+175,അന്നും ഇന്നും  കട്ട മമ്മൂക്ക ഫാൻസ് ആരുണ്ട്,Positive,Positive,Mixed_feelings,True,100.0,42,Mixed Sentiment Confusion
+182,ഇതൊരു പൊളി പൊളിക്കും.. എജ്ജാതി കാസ്റ്റിംഗ്. Editing bgm direction art ഒരു രക്ഷേം ഇല്ലാ.. joshy sir strikes with a tsunami.,Positive,Positive,Mixed_feelings,True,47.61904761904761,122,Mixed Sentiment Confusion
+187,മമ്മൂക്ക യെ പെൺവേശത്തിൽ  കാണിക്കുന്ന രംഗം കാണണമെങ്കിൽ ചെല്ല്  ടിക്കറ്റ് എടുക്ക്  ടിയട്ടറിൽ കാണാത്തവർ നാളെ Tv യിൽ കാണുമ്പോൾ  ടിയട്ടറിൽ  കാണാൻ പറ്റാത്തത്തിൽ ദുഃഖിക്കും  ഇത് കുറിച്ചിട്ടോ   ആ Bgm  യുദ്ധരംഗം ഹ എജാതി,Positive,Positive,Mixed_feelings,True,97.1590909090909,210,Mixed Sentiment Confusion
+188,kidu bgm making dailogue full pwli mood ichayan,Positive,Positive,Negative,True,0.0,47,Clear Sentiment Flip
+199,ഇടവേളകളിലെ പഫ്സും ഡ്രിംഗ്സും ക്ലാസുകളിലെ ചെറുകുരുത്തക്കേടുകളും പരീക്ഷകളിലെ മഹത്തായ മാർക്കുകളും ഇനിയൊരിക്കലും തിരിച്ച് കിട്ടാത്ത ആ +1 & +2 കാലത്തെയും ഓർമ്മിപ്പിച്ച്   ഒരു തണ്ണീർമത്തൻ ദിനം  Miss u guyzzzz,Positive,Positive,Mixed_feelings,True,90.3954802259887,202,Mixed Sentiment Confusion
+201,Ettan fans like button pottich kaanich kodkk,Positive,Positive,Negative,True,0.0,44,Clear Sentiment Flip
+210,Trailer  thanne 100 vattam kaanan thonna..... padam poliyaanu appo...🤘🤘🤘🤘🤘,Positive,Negative,Negative,True,0.0,74,Clear Sentiment Flip
+213,Oru rakshayum illaaatha waiting  ഒന്നൊന്നര ട്രൈലെർ,Positive,Negative,Negative,True,36.36363636363637,50,Clear Sentiment Flip
+217,sukurthukkale enikk oru karyave parayanollu dis like adichum aavishyam illatha troll paranjum veruppikkalle nammade swathalle lalettan nammal malayalikalude abhimanamalle,Positive,Positive,Negative,True,0.0,170,Clear Sentiment Flip
+220,ഇവിടെ ശൈലിക്കോ ഭാഷാപ്രയോഗത്തിനോ അല്ല പ്രസക്തി കാരണം നമ്മളാരും കേട്ടിട്ടുമില്ല കണ്ടിട്ടുമില്ല അപ്പൊ ശഹീദ് കുഞ്ഞാലി മരക്കാരെ ഭാഷാ ശൈലി ഇതു തന്നെ,Positive,INVALID,Mixed_feelings,True,100.0,142,Mixed Sentiment Confusion
+221,Chackochan nte veroru avathaaram aavum idh. Blockbuster il kuranjonnum pradheekshikkunnilla,Positive,INVALID,Negative,True,0.0,91,Clear Sentiment Flip
+223,Oru 10 thavana kandu,Positive,INVALID,Negative,True,0.0,20,Clear Sentiment Flip
+233,Next Week china povan irikkana njan ithu kandeche njan povathullu,Positive,INVALID,Negative,True,0.0,65,Clear Sentiment Flip
+238,Film hitayalum floppayalum trailerinirikate oru kuthirappavan,Positive,INVALID,Mixed_feelings,True,0.0,61,Mixed Sentiment Confusion
+242,ഇത്ര നല്ല പാട്ടിനെയാണല്ലോ ഡീഗ്രേഡ് ചെയ്തത് ഊളകൾ. പടം കണ്ടപ്പഴല്ലേ മനസിലായത്. മമ്മൂട്ടി കലക്കി,Positive,INVALID,Negative,True,97.59036144578313,93,Clear Sentiment Flip
+243,LAD പോലെ ഉള്ള ചവർ ജയിപ്പിച്ചിട്ടു ഇതു പോലെ ഒന്നു തോൽപ്പിക്കാതെ ഇരിക്കുക,Positive,INVALID,Negative,True,95.16129032258065,71,Clear Sentiment Flip
+247,ആ ചിരി കണ്ടോ  വില്ലന്റെ ചിരി  അപ്പൊ ബോക്സ്‌ ഓഫീസ് rip,Positive,INVALID,Negative,True,90.69767441860465,53,Clear Sentiment Flip
+248,Njan Ee Cinema Maveli Theater il Vachhu Kanddu Avassanam Kannu Nananju-Poyeeee....,Positive,INVALID,Negative,True,0.0,82,Clear Sentiment Flip
+250,Kandittum kandittum madhiyaavunnillallo deyvame.....Ente laletta ningal star alla oru GALAXY aanu,Positive,INVALID,Negative,True,0.0,97,Clear Sentiment Flip
+252,Thelunku nadan ..bhaala krishnayeyum... Thal nadan vijaya kaandhineyum ..naanipichu...mammuunny...,Negative,INVALID,Positive,True,0.0,98,Clear Sentiment Flip
+254,Ethilum betham gopi sunderaa kayamkulamkochunni enna movie songs nallathayirunnu,Negative,INVALID,Positive,True,0.0,80,Clear Sentiment Flip
+255,ഈ പാട്ട് rasallyaa.. അടുത്തത് നോക്കാം.. MJ ser...,Negative,INVALID,Positive,True,51.162790697674424,49,Clear Sentiment Flip
+261,വടക്കൻ വീരഗാഥയിലെ പാട്ടു പോലെ പ്രതീക്ഷിച്ചു - but  ഇത് ലോക്കൽ പാട്ടും സൂപ്പർ Scenes ഉം,Negative,INVALID,Mixed_feelings,True,86.3013698630137,86,Mixed Sentiment Confusion
+264,സീരിയൽ കാണുന്ന പോലെ ഉണ്ട് .. സിനിമ അങ്ങനെ ആവാതിരിക്കാൻ പ്രതീക്ഷിക്കുന്നു,Negative,INVALID,Mixed_feelings,True,96.875,72,Mixed Sentiment Confusion
+266,paandi raaja .Annan thanbi.pandi padam nirthi Lucifer movie  pole maaran sramik,Negative,INVALID,Mixed_feelings,True,0.0,79,Mixed Sentiment Confusion
+270,ഉണ്ണി മുകുന്ദൻ മസിൽമാൻ മാത്രം ആയി മാറി,Negative,INVALID,Mixed_feelings,True,100.0,38,Mixed Sentiment Confusion
+274,ഇതുവരെ 2.1 k പൂജപ്പുര മച്ചാൻസ് ടീസർ കണ്ടു  .. enjoy..Enjoy..,Negative,INVALID,Positive,True,60.78431372549019,60,Clear Sentiment Flip
+279,Cinema muyuvan manassilayi ini padam kaanano,Negative,INVALID,Positive,True,0.0,44,Clear Sentiment Flip
+287,ithokke comedy pole und ...aa  bahubaliyude manam kalayo ?,Negative,INVALID,Mixed_feelings,True,0.0,58,Mixed Sentiment Confusion
+290,ലാലേട്ടനെ  ഒരുപാടിഷ്ടമാണ്..... പക്ഷെ  പറയട്ടെ.... ചിത്രം  നിരാശപ്പെടുത്തി.....പതിവ്  പോലെ  ലാലേട്ടന്റെ റോൾ  അദ്ദേഹം  ഭംഗിയായി  ചെയ്തു.... ബട്ട്‌.......ഇതുപോലെ..... ലോജിക്  ഇല്ലാത്ത  മണ്ടൻ കഥയിൽ അദ്ദേഹം  തല  വെച്ചു പോയി......പഴയ  ലാലേട്ടനെ  തിരിച്ചു  കിട്ടി എന്നൊക്കെ  പറയുന്നവരോട്... എന്തു പറയാൻ......,Negative,INVALID,Mixed_feelings,True,82.17054263565892,301,Mixed Sentiment Confusion
+297,"മൂക്കുത്തി കണ്ടില്ല, പക്ഷെ കുറെ വടകൾ കണ്ടു  Prachi Tehlan എന്തൊരു വയർ",Negative,INVALID,Positive,True,77.96610169491525,69,Clear Sentiment Flip
+301,ഇങ്ങേർ ഇനിയും വളിപ് നിർത്താൻ ഉദ്ദേശം ഇല്ലാ എന്നാ തോന്നുന്നത്... അടുത്ത പടക്കവും ആയി വരുന്നുണ്ടേ...🤣🤣🤣🤣🤣🤣🤣,Negative,INVALID,Positive,True,86.17021276595744,105,Clear Sentiment Flip
+302,അപ്പോ ഇട്ടിമാണിടെ Ticket cash ലാഭമായി.......sryy lalettaa... Review അറിഞ്ഞിട്ട് കേറാം...  Its tym For LAD & BROTHERzDay,Negative,INVALID,Mixed_feelings,True,37.5,119,Mixed Sentiment Confusion
+303,ഇതോടെ ഒന്ന് ഉറപ്പായി. പൊട്ടും. അസ്സൽ സീരിയൽ പോലെ ഉണ്ട്. മുടക്കിയ പൈസ എങ്കിലും തിരിച്ചു കിട്ടട്ടെ. All the best,Negative,INVALID,Mixed_feelings,True,85.26315789473684,110,Mixed Sentiment Confusion
+307,Trailer kandit orappa nalla supper POTTA FILM..,Negative,INVALID,Positive,True,0.0,47,Clear Sentiment Flip
+313,ഇക്കയെ ഇഷ്ട്ടമാണ്  എന്നാലും പറയുവാണ്   പടം 5പൈസക്ക് ഉണ്ടാവൂല,Negative,INVALID,Mixed_feelings,True,98.0392156862745,60,Mixed Sentiment Confusion
+315,മമ്മൂട്ടി ഒരുപാട് പരിമിതികൾ ഉള്ള നടനാണെന്ന് വീണ്ടും തെളിയിച്ച സിനിമയും പാട്ടും,Negative,INVALID,Mixed_feelings,True,100.0,78,Mixed Sentiment Confusion
+316,Manushyane chirippikan aayittu oro thaalikal irangikkolum🤣🤣🤣🤣... Ezheechu podo kilava,Negative,INVALID,Positive,True,0.0,85,Clear Sentiment Flip
+318,ഞാൻ കണ്ടു.. ഞാൻ മാത്രമേ കണ്ടുള്ളു 🤣🤣🤣..കോണത്തിലെ പടം..,Negative,INVALID,Mixed_feelings,True,81.25,54,Mixed Sentiment Confusion
+320,"മനപ്പൂര്‍വ്വം ano ലാലേട്ടന് വെച്ചു മാത്രം സിദ്ദിഖ്‌ eeyedayai  igne(ladies and gentlemen, big brother) . Valom karuthi kooti!",Negative,INVALID,Positive,True,37.61467889908257,125,Clear Sentiment Flip
+321,"കാര്യം ഞാനുമൊരു മമ്മൂട്ടി ഫാൻ ആണ്.  പക്ഷേ പറയാതെ വയ്യ, നല്ല ബോർ ടീസർ.",Negative,INVALID,Mixed_feelings,True,94.82758620689656,69,Mixed Sentiment Confusion
+329,35 കോലിയിൽ വരുന്ന സിദ്ദിക്ക്‌ - മോഹൻലാൽ മൂവിയെ കണ്ടം വഴി ഓടിക്കാനാണ് ഇന്ത അസുരൻ വരുന്നത്  കൊടൂര മാസ്സ് entertainer,Negative,INVALID,Positive,True,84.6938775510204,114,Clear Sentiment Flip
+336,Trailer kandapo oru karyam urapichu #LAD,Negative,INVALID,Positive,True,0.0,40,Clear Sentiment Flip
+338,ഈ കാട്ടി കൂട്ടൽ kandi തിയേറ്ററിൽ ചിരിച്ചു കൂവിയവർ 🤣🤣ഇജാതി,Negative,INVALID,Positive,True,86.0,57,Clear Sentiment Flip
+353,ട്രൈലർ കണ്ടിട്ട് മുമ്പ് എട്ട് നിലയിൽ പൊട്ടിപ്പോയ വാമനപുരം ബസ്റൂട്ട് ഒാർമ വന്നവർക്ക് ലൈക്കടിക്കാനുള്ള കമന്റ്. ഒാണം വിന്നർ ബ്രദേർസ് ഡേ തന്നേയെന്ന് ഒരിക്കൽ കൂടി തെളിയിച്ചു,Negative,INVALID,Mixed_feelings,True,99.33774834437085,170,Mixed Sentiment Confusion
+355,Thrissur slang paliyenn thonnunnath enikk mathramano?,Negative,INVALID,Mixed_feelings,True,0.0,53,Mixed Sentiment Confusion
+366,"മൂക്കുത്തി കണ്ടില്ലെങ്കിലും സാരമില്ല,ഇഷ്ടം പോലെ വട ഉണ്ടല്ലോ കാണാൻ",Negative,INVALID,Mixed_feelings,True,98.30508474576271,65,Mixed Sentiment Confusion
+369,മഞ്ജു വാര്യർക്ക് അഭിനയിക്കാൻ പറ്റിയ പടം  നല്ല കോഴി പടം !,Negative,INVALID,Positive,True,97.87234042553192,56,Clear Sentiment Flip
+374,Singana suryaye vellan oru poo monum Ella,Negative,INVALID,Positive,True,0.0,41,Clear Sentiment Flip
+376,Enthylm 300 koli thallum muzhuvn fans.......,Negative,INVALID,Positive,True,0.0,44,Clear Sentiment Flip
+381,Dis like engane thonni......adikan...... Adichavanmar  ooompikoooo Ikka ... Mass daaaaaaaaaaaaa....... Keralathinte muthue..........,Negative,INVALID,Positive,True,0.0,132,Clear Sentiment Flip
+384,ONKV ood neeraliii kandam vazhiii Ikka marana mass,Negative,INVALID,Positive,True,0.0,50,Clear Sentiment Flip
+390,കുഞ്ഞാലി മരക്കാരെ പറയിപ്പിക്കാൻ ഓരോ ബാസ. ഇത്തരം charactors രൂപത്തിലും ഭാവത്തിലും ശബ്ദത്തിലും അതിനോട് മാന്യത പുലർത്തണം ...ഉസ്മാനെ,Negative,INVALID,Positive,True,87.82608695652175,128,Clear Sentiment Flip
+392,Ith  arabikkadalinte simhamalla Hippo Pottamaas.Kunjali marakkare Baahubali dressokke itt priyadarshan abhamanikkunnu.Cashing vendi charithrathe Valachodikkunnu.,Negative,INVALID,Mixed_feelings,True,0.0,161,Mixed Sentiment Confusion
+395,Ithu ikkayude script aanu..   Uttopiya,Negative,INVALID,Positive,True,0.0,38,Clear Sentiment Flip
+397,Yendha ee Pallayappan parayunnath. we padam pottum. suvaranu,Negative,INVALID,Positive,True,0.0,60,Clear Sentiment Flip
+400,Nty amoooo kunjalimarakaar 9 alla  oru pulikutti ayirunu Lal sir nigal samsarikubool Chiri varunu,Negative,INVALID,Positive,True,0.0,97,Clear Sentiment Flip
+401,മൂഡ് പോയി...മൂഡ് പോയി...തുടക്കം തന്നെ ജോബി ജോർജിന്റെ പേര് കണ്ടപ്പോ മൊത്തം മൂഡ് പോയി. പിന്നെ ഇക്കാടെ പെർഫോമൻസ് കണ്ടിരുന്നു പോയി..,Mixed_feelings,INVALID,Negative,True,92.03539823008849,128,Mixed Sentiment Confusion
+402,ഒരപേക്ഷയുണ്ട് പടത്തിൽ  ഞങ്ങടെ slang dialogues ഓവറാക്കി  ചളമാക്കരുത്..അത്രേയുള്ളൂ...  ജോഷിയേട്ടൻ പൊളിക്ക്,Mixed_feelings,INVALID,Negative,True,79.56989247311827,104,Mixed Sentiment Confusion
+403,bgm  kettit kgf pole undallo,Mixed_feelings,INVALID,Positive,True,0.0,28,Mixed Sentiment Confusion
+404,Trailer kanttitt pulimurukantteil mamooty afinayichathupole thoni,Mixed_feelings,INVALID,Positive,True,0.0,65,Mixed Sentiment Confusion
+406,Trailer വെറുതെ വളരെ നന്നാക്കിയാൽ മാമാങ്കം പോലിരിക്കും... എന്തിനാ വെറുതെ,Mixed_feelings,INVALID,Negative,True,84.375,71,Mixed Sentiment Confusion
+407,Dialogue presentation pora bakki ellam kollam,Mixed_feelings,INVALID,Positive,True,0.0,45,Mixed Sentiment Confusion
+408,Avasanam Rajadhiraja yile tone pole thonni,Mixed_feelings,INVALID,Negative,True,0.0,42,Mixed Sentiment Confusion
+410,Onnekil adutha pulimurugan alel adutha odiyan,Mixed_feelings,INVALID,Negative,True,0.0,45,Mixed Sentiment Confusion
+414,ethentha lalettan thanneyano dout akunnu,Mixed_feelings,INVALID,Negative,True,0.0,40,Mixed Sentiment Confusion
+418,Ithil mammookakk role undo. Motham aa pilleraya kaniche mammokka mass,Mixed_feelings,INVALID,Positive,True,0.0,69,Mixed Sentiment Confusion
+419,Ith mechinde vela kallayand irinaa madhii.. kand ariyam..,Mixed_feelings,INVALID,Negative,True,0.0,57,Mixed Sentiment Confusion
+420,Maargham Kali nalla bornd tttto Baaaakkki kollllaaam,Mixed_feelings,INVALID,Positive,True,0.0,52,Mixed Sentiment Confusion
+421,Video pirates og carriebian enna movie aanallo,Mixed_feelings,INVALID,Negative,True,0.0,46,Mixed Sentiment Confusion
+424,ഇത് വെറും ഒരു ആവറേജ് സോങ് മാത്രമായിട്ടാണ് എനിക്ക് തോന്നിയത്. ഉറുമിയിൽ ഒക്കെ ഉണ്ടായിരുന്ന പാട്ട് ഇതിനെ വച്ചു compare ചെയ്യുമ്പോൾ ഒരുപാട്  നല്ലത് ആയിരുന്നു.,Mixed_feelings,INVALID,Negative,True,93.33333333333333,154,Mixed Sentiment Confusion
+425,evade kaanikuna avesham padam arangumbo theatril koodi onnu kaanicha upakaaram aerunu plzz,Mixed_feelings,INVALID,Negative,True,0.0,90,Mixed Sentiment Confusion
+428,ചില തെണ്ടികൾ കാരണം ഈ സോങ് വെറുത്തു പോയതാ  ഇപ്പൊ കണ്ടപ്പോഴാ ഇതിന്റെ വാല്യു മനസിലാകുന്നേ,Mixed_feelings,INVALID,Negative,True,100.0,86,Mixed Sentiment Confusion
+429,ഇതു ഡാൻസും പാട്ടും കൂത്തും ഉള്ള ടിപ്പിക്കൽ നിമ്പോളി പടം അല്ല മക്കളേ..,Mixed_feelings,INVALID,Negative,True,96.66666666666667,69,Mixed Sentiment Confusion
+431,എവിടം കൊണ്ടോ ഒരു ലിജോ പെല്ലിശ്ശേരി ടച്ച്......,Mixed_feelings,INVALID,Positive,True,85.36585365853658,46,Mixed Sentiment Confusion
+433,Thoopil Joppan poley ulla oru Item aavand irunnal mathi aarunnu🥺🥺🥺.,Mixed_feelings,INVALID,Negative,True,0.0,67,Mixed Sentiment Confusion
+434,Pulimurugam team alle athinta oru chaaya evdokkeyo ondIKKA SUPERMAN PUNCH PWLIYEE,Mixed_feelings,INVALID,Positive,True,0.0,81,Mixed Sentiment Confusion
+435,Trailer kidu....pakshe scriptm charactersum novelinu adichu matiyatanenu oru vivadam vanitundalo. Court order oke vakavekate shoot nadati enoke parenju news varunud,Mixed_feelings,INVALID,Negative,True,0.0,164,Mixed Sentiment Confusion
+436,Bgm super. Padam above average aayirikkum,Mixed_feelings,INVALID,Positive,True,0.0,41,Mixed Sentiment Confusion
+439,"Mr. പ്രഭാകർ  ഇത് ഇവിടെ വർക്ഔട്ട്‌ ആവില്ലാ, സ്ഥലം മാറ്റിപിടിക്കു, സംഭവം കൊള്ളാം",Mixed_feelings,INVALID,Negative,True,91.17647058823529,78,Mixed Sentiment Confusion
+440,Eee oru odiyan ikkade bilalnte athre muttan illa,Mixed_feelings,INVALID,Negative,True,0.0,48,Mixed Sentiment Confusion
+441,1989 il vadakkan veeragadha theateril kanda nhan veendum oru epic cinema kaanan thayyaredukkunnu.. MT yude dialogukalkk pakaram vekkan onnumilla..,Mixed_feelings,INVALID,Positive,True,0.0,146,Mixed Sentiment Confusion
+444,Dayvu cheyth priyapettavare Kanni Akkaruth  over hype venda,Mixed_feelings,INVALID,Negative,True,0.0,59,Mixed Sentiment Confusion
+445,രാജാധിരാജലേം masterpiece ലെയും പോലെ fighting തെലുങ്ക് ആവാതിരുന്ന പൊള്ളിക്കും..,Mixed_feelings,INVALID,Negative,True,70.4225352112676,78,Mixed Sentiment Confusion
+448,Madhuraraja_3hours 86K like Lucifer_49 minutes 120K like Feel the difference,Mixed_feelings,INVALID,Positive,True,0.0,76,Mixed Sentiment Confusion
+449,ക്ലാസിക്കൽ ഡാൻസ് അറിയാവുന്ന ആരെയെങ്കിലും കൊണ്ട് ചെയ്യിച്ചാ മതിയായിരുന്നു.,Mixed_feelings,INVALID,Negative,True,98.50746268656717,73,Mixed Sentiment Confusion
+450,Lucifer yenna filim kandu. Athinte aniyara prevarttakar paranju perippichathupole oru bhayangara sambhavam onnum alla 2 manickoor boradickathe kanam,Mixed_feelings,INVALID,Negative,True,0.0,148,Mixed Sentiment Confusion
+453,lucifer inte munnil enthonn raaja.! ettan da...,Mixed_feelings,INVALID,Positive,True,0.0,47,Mixed Sentiment Confusion
+454,Prithwirajinthe samayam shariyalla ippo ella cinimayum parajayappedunnu ithenkilum hitavatte,Mixed_feelings,INVALID,Negative,True,0.0,92,Mixed Sentiment Confusion
+455,angane oru divasam daivam marichu..........hahahahah.....nalla comedy,Mixed_feelings,INVALID,Negative,True,0.0,69,Mixed Sentiment Confusion
+456,Lastil oru “laila may lailaa “ touch vannille BGM il 🥰🥰,Mixed_feelings,INVALID,Positive,True,0.0,55,Mixed Sentiment Confusion
+457,Oru pandi comedy pandum pole unnd,Mixed_feelings,INVALID,Positive,True,0.0,33,Mixed Sentiment Confusion
+458,tamil movie polea undeallo.  over aano,Mixed_feelings,INVALID,Negative,True,0.0,38,Mixed Sentiment Confusion
+459,E trailer kanumpo amen orma varunn,Mixed_feelings,INVALID,Negative,True,0.0,34,Mixed Sentiment Confusion
+460,Laletta nalla cinemaye language loode illathakkalle njangalkku sada language mathi,Mixed_feelings,INVALID,Negative,True,0.0,82,Mixed Sentiment Confusion
+461,ennu ninte moideenile oru pattinte tune pole thonunu,Mixed_feelings,INVALID,Positive,True,0.0,52,Mixed Sentiment Confusion
+462,Kunjaalikk eee sound fit alla ennoru thonal,Mixed_feelings,INVALID,Negative,True,0.0,43,Mixed Sentiment Confusion
+463,Ithu pokkiri raja 2 aano atho pulimurugan 2 aanoenthayalum massAll the Best Ikka and team,Mixed_feelings,INVALID,Positive,True,0.0,89,Mixed Sentiment Confusion
+464,പുത്തൻ പണം എന്ന സിനിമ പോലെ ആകാതിരുന്നാൽ മതി ആകെയുള്ള പ്രതീക്ഷ മമ്മൂക്ക ആൻഡ് അജയ് വാസുദേവ്                               മകനെ പടം കാണാതെ വിടമാട്ടെ,Mixed_feelings,INVALID,Negative,True,100.0,145,Mixed Sentiment Confusion
+465,enthokeyo evdakayo oru thakarar pole... ennalum kolaam...,Mixed_feelings,INVALID,Negative,True,0.0,57,Mixed Sentiment Confusion
+466,Saanam kidu but idakk aavisym illand kure vattam boss nokke ezhuthi chala maakki 1.2 vattam aanel kuzhappila nokkiya manasilavum,Mixed_feelings,INVALID,Negative,True,0.0,128,Mixed Sentiment Confusion
+467,അനു ചേച്ചിയെ മിസ്സ്‌ ചെയ്തത് എനിക്ക് മാത്രമാണോ,Mixed_feelings,INVALID,Negative,True,97.5609756097561,46,Mixed Sentiment Confusion
+468,Trailer KOLLAM KOLAMASS ... PAKSHE  KAANAN ORU SUKAM ILLA.... VELUTHAKANAMAAYIRUNNU,Mixed_feelings,INVALID,Negative,True,0.0,83,Mixed Sentiment Confusion
+469,Ithu kanda puthan panam  ..evideyo entho thakararu pole.     Ini puthan panam pole aavo ithu ......,Mixed_feelings,INVALID,Negative,True,0.0,99,Mixed Sentiment Confusion
+472,Kanditt oru naad rakshikal cliché aanenn thonunnu..,Mixed_feelings,INVALID,Negative,True,0.0,51,Mixed Sentiment Confusion
+474,"lyrics ezhuthaan budhimuttiyitunaaavum le , chemberathiyum chembakathinum shesham mukkuthikkum koode oru paatinte kuravundaayirunullu.",Mixed_feelings,INVALID,Positive,True,0.0,134,Mixed Sentiment Confusion
+476,പാട്ടിനനുസരിച്ചുള്ള ലിപ്സ് മൂവ്മെന്റ് കുറച്ചു കൂടി നന്നാക്കാമായിരുന്നു,Mixed_feelings,INVALID,Negative,True,100.0,70,Mixed Sentiment Confusion
+477,Kilichundan mambazhathile... Laletan dilog parayana pole,Mixed_feelings,INVALID,Negative,True,0.0,56,Mixed Sentiment Confusion
+478,bollywood movie fan aayitt oru chaya kaachal,Mixed_feelings,INVALID,Negative,True,0.0,44,Mixed Sentiment Confusion
+479,ഈ പടം പൊളിയാരിക്കും. അങ്ങനെ ആകല്ലേ എന്ന് പ്രാർത്ഥിക്കുന്നു. കാരണം സിദ്ദിഖിന് കോമഡി ഫിലിം ആണ് നന്നായി ചെയ്യാൻ പറ്റുന്നത്.ലാലേട്ടൻ  മീര ജാസ്മിനുമായി ചേർന്നുള്ള ഒരു പടം പൊട്ടിയത് നമ്മൾ കണ്ടതാണ്  . ആക്ഷൻ ചെയ്തു വിജയിപ്പിച്ചിട്ടില്ല.,Mixed_feelings,INVALID,Negative,True,97.5,228,Mixed Sentiment Confusion
+480,സത്യം പറഞ്ഞാൽ ഈ പാട്ട് അത്ര രസം ഒന്നുമില്ല കേൾക്കാൻ. ഇത്തവണ എം ജയചന്ദ്രൻ - ശ്രേയ ഘോഷാൽ - റഫീഖ് അഹമ്മദ് കോമ്പിനേഷൻ അത്രക്കങ്ങോട്ടു കലങ്ങീല്ല,Mixed_feelings,INVALID,Negative,True,97.5,139,Mixed Sentiment Confusion
+481,കൊണ്ടോരാം കൊണ്ടോരാം കൈതോല പായ കൊണ്ടോരാം ഈ song മായി എന്തെങ്കിലും സാമ്യം ഉണ്ടെങ്കില്‍ തികച്ചും സാങ്കല്പിക മാത്രം,Mixed_feelings,INVALID,Negative,True,94.89795918367348,111,Mixed Sentiment Confusion
+482,Comadey aguuum  realse aytuu paryaaam,Mixed_feelings,INVALID,Negative,True,0.0,37,Mixed Sentiment Confusion
+483,Editing mosham. Mammukka get up poli,Mixed_feelings,INVALID,Negative,True,0.0,36,Mixed Sentiment Confusion
+484,Padam oru horror movie akkamarnnuuu kaanunnavar koodi pedikanarnu,Mixed_feelings,INVALID,Negative,True,0.0,65,Mixed Sentiment Confusion
+486,പ്രിയൻ സാർ ഭാഷ ശരിയാക്കു വൻ ഹിറ്റാകേണ്ട പടമാണ്,Mixed_feelings,INVALID,Negative,True,100.0,46,Mixed Sentiment Confusion
+488,ഒരു പ്രതീക്ഷയും ഇല്ല   ഓടിയാൽ ഓടി അത്രേ ഉള്ളു,Mixed_feelings,INVALID,Negative,True,100.0,45,Mixed Sentiment Confusion
+489,Bgm... എവിടെ ഒക്കെയോ രാക്ഷസൻ Bgm  കേറിവരുന്നു..... നിങ്ങൾക്കു തോന്നിയോ...,Mixed_feelings,INVALID,Negative,True,73.84615384615385,73,Mixed Sentiment Confusion
+490,ഇതു എന്തുവ തെലുങ്ക് സിനിമ മലയാളത്തിൽ ഡബ്ബ് ചെയ്തപോലെ....,Mixed_feelings,INVALID,Negative,True,92.0,56,Mixed Sentiment Confusion
+491,Dialogue delivery oru gummilla.. ahh padam varattee nokkam,Mixed_feelings,INVALID,Negative,True,0.0,58,Mixed Sentiment Confusion
+493,Oru variety agotu feel cheyanila full mass item avum.. onnum kanand jayettan eragila,Mixed_feelings,INVALID,Negative,True,0.0,84,Mixed Sentiment Confusion
+495,"പാട്ട് എഴഞ്ഞ പോലെ , നടിമാർ HOT looking",Mixed_feelings,INVALID,Positive,True,65.625,38,Mixed Sentiment Confusion
+497,എവിടെയൊക്കയോ എന്ന് നിന്റെ മൊയ്തീനിലെ മുക്കത്തെ പെണ്ണെ കേറി വരുന്നുണ്ടല്ലൊ,Mixed_feelings,INVALID,Negative,True,100.0,73,Mixed Sentiment Confusion
+498,Dis like adichavar aaro avar... onnum parayunnilla,Mixed_feelings,INVALID,Negative,True,0.0,50,Mixed Sentiment Confusion
+499,Trailer kaanikan udheshichavar padam full kaanichu ithilude...best,Mixed_feelings,INVALID,Positive,True,0.0,66,Mixed Sentiment Confusion
+500,"വെപ്പുതാടി അച്ഛൻ , ഇത് 2019 ആയി.. പിന്നെ Pogo tv Comedies..   മാർഗം കളി സൂപ്പർ",Mixed_feelings,INVALID,Positive,True,64.0625,78,Mixed Sentiment Confusion
