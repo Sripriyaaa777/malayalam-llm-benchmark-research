@@ -143,7 +143,7 @@ for bar, rate in zip(bars, validity_rates):
             label, ha='center', va='bottom', fontsize=11, fontweight='bold')
 
 # Neutral assessment labels (no alarmist language)
-assessments = ['Reliable', 'Unreliable', 'No valid output']
+assessments = ['High validity', 'Moderate validity', 'No valid outputs']
 assess_colors = ['green', 'darkorange', 'red']
 for i, (assess, acolor) in enumerate(zip(assessments, assess_colors)):
     ax.text(i, -9, assess, ha='center', fontsize=10, color=acolor, fontweight='bold')
