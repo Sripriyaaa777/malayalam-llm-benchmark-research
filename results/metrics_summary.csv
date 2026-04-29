@@ -1,0 +1,4 @@
+Model,N_valid,N_total,Validity,Cond_Acc,E2E_Acc,Macro_F1
+Llama 3.3 70B,395,475,0.8316,0.6,0.4989,0.5496
+Llama 3.1 8B,475,475,1.0,0.5158,0.5158,0.4906
+Llama 4 Scout,475,475,1.0,0.6484,0.6484,0.5948
